@@ -110,8 +110,8 @@ Others projects
 
 Also please see my contribution content:
 
-Cosmos Network https://www.youtube.com/watch?v=cIxdLwKAYYQ&t=6s&ab_channel=PapsanLysenko
-FreeTON Network https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko
+- Cosmos Network https://www.youtube.com/watch?v=cIxdLwKAYYQ&t=6s&ab_channel=PapsanLysenko
+- FreeTON Network https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko
 
                                                    My Contacts
 						   
