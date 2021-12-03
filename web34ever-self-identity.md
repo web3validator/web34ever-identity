@@ -13,7 +13,7 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Avalanche](https://avascan.info/staking/validator/NodeID-GcWopGJ9HZAJSBSw5vVGxd7r9rntKj21Q)
 
-- [TheGraph](https://thegraph.com/explorer/profile?id=0x61fb0285da8609b17bd82675acf0fc0a60061d7d&view=Delegating)	
+- [TheGraph Indexer](https://thegraph.com/explorer/profile?id=0xd93456bf656436e66a8e0a8835c43a6f59afbb37&view=Indexing)	
 
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75)
 
