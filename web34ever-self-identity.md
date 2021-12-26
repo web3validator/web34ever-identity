@@ -33,7 +33,7 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Bitsong](https://explorebitsong.com/staking/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
 
-- [XX-Network](https://dashboard.xx.network/nodes/sFMS0TKTK5FoignYUnhJDwWz9_Uotmzg3LI-szS3ixIC)
+- [XX-Network](https://dashboard.xx.network/nodes/CbbUZQAwfg7uSVebxdMLS76YQatTG9YZXp0OjmOpT8MC)
 
 - [Moonbeam Collator](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4)
 
