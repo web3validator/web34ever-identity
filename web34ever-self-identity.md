@@ -68,7 +68,7 @@ Cosmos SDK projects:
 - [Gravity-Bridge]()
 - [AssetMantle]()
 - [Ki-chain]()
-- [Pylons](https://wallet.pylons.tech/validator/pylovaloper1tdmeurwdu9ew5rlw04wjsc65caaqug274h3fwx)
+- [Pylons](https://wallet.pylons.tech/validator/pylovaloper18c2a42u3kfmey32nadk7a4qsc9wrrz8w83muu7)
 - [Game](https://neuron.game-explorer.io/validators/gamevaloper1v5nsfmmwkvj8t23s5vylzr5l7s6j6zjkppm48q)
 - [Cryptocom](https://crypto.org/explorer/croeseid/validator/tcrocncl129xlqcjasyzqsc4364x7hc6m6t5w33ruqp53qx)
 - [Omniflix](https://explorer.omniflix.network/validators)
