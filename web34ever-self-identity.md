@@ -22,6 +22,8 @@ Passionate experts with over five years of expertise in decentralized technologi
 - [Certik](https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1)	
  
 - [Microtick](https://explorer.microtick.zone/validator/microvaloper1mn8r3x4g2nmwmvsqqh3tsnzxp54c7qwrumgje2)
+
+- [Gravity-Bridge](https://gravity-bridge.skynetexplorers.com/validators/gravityvaloper1exksjeh9c0h03mxsvechrcc6axe56c5a56573y)
  
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper17kpyk8nqwr0dkv4nz5j4d3r9umfm23we0fk8wj)
  
