@@ -44,8 +44,8 @@ Passionate experts with over five years of expertise in decentralized technologi
 - [Idena](https://scan.idena.io/address/0x8f13de3aad441684cdfb84c5410f845697cce378#rewards)
 
 
-                                                  Blochains grow here
 						        Test-Networks 
+							Blochains grow here
 
 Cosmos SDK projects:
 - [Cyber.papge](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)
