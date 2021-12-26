@@ -33,7 +33,7 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [XX-Network](https://dashboard.xx.network/nodes/sFMS0TKTK5FoignYUnhJDwWz9_Uotmzg3LI-szS3ixIC)
 
-- [Moonbeam Collator](https://moonbase.subscan.io/validator/0xbd257396ed62526054f41be2065b3d1532485189)
+- [Moonbeam Collator](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4)
 		
 - [Likecoin](https://likecoin.bigdipper.live/validator/cosmosvaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6eu6q5h)
  
