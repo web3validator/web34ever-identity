@@ -13,13 +13,13 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
 
-- [TheGraph Indexer](https://thegraph.com/explorer/profile?id=0xd93456bf656436e66a8e0a8835c43a6f59afbb37&view=Indexing)	
-
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75)
 
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx)	
 
 - [Certik](https://www.mintscan.io/certik/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq)	
+
+- [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)
  
 - [Microtick](https://explorer.microtick.zone/validator/microvaloper1mn8r3x4g2nmwmvsqqh3tsnzxp54c7qwrumgje2)
 
@@ -36,10 +36,12 @@ Passionate experts with over five years of expertise in decentralized technologi
 - [XX-Network](https://dashboard.xx.network/nodes/CbbUZQAwfg7uSVebxdMLS76YQatTG9YZXp0OjmOpT8MC)
 
 - [Moonbeam Collator](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4)
-
-- [ProximaX](https://github.com/proximax-storage/xpx-mainnet-chain-onboarding/tree/master/docker-method)
 		
 - [Free TON](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)
+
+- [TheGraph Indexer](https://thegraph.com/explorer/profile?id=0xd93456bf656436e66a8e0a8835c43a6f59afbb37&view=Indexing)	
+
+- [Casper](https://cspr.live/account/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43)
  
 - [Idena](https://scan.idena.io/address/0x8f13de3aad441684cdfb84c5410f845697cce378#rewards)
 
@@ -48,8 +50,8 @@ Passionate experts with over five years of expertise in decentralized technologi
 							Blochains grow here
 
 Cosmos SDK projects:
-- [Cyber.papge](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)
-- [Certik](https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1)
+- [Cyber.papge](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j) 
+- [Certik](https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1) 
 - [Bitsong](https://explorebitsong.com/staking/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
 - [Althea](https://testnet.althea.aneka.io/validators/cosmosvaloper1hv0dcr9l2l090jxtuxu8nsa2jm6h307xfdcwscj)
 - [Akash Network](http://5k6rp916o9807flqte7ruq1bk0.ingress.ewr1p0.mainnet.akashian.io/)
@@ -67,11 +69,14 @@ Cosmos SDK projects:
 - [Frontier]()
 - [Gravity-Bridge]()
 - [AssetMantle]()
+- [CosmicHorizon]()
 - [Ki-chain]()
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper18c2a42u3kfmey32nadk7a4qsc9wrrz8w83muu7)
 - [Game](https://neuron.game-explorer.io/validators/gamevaloper1v5nsfmmwkvj8t23s5vylzr5l7s6j6zjkppm48q)
 - [Cryptocom](https://crypto.org/explorer/croeseid/validator/tcrocncl129xlqcjasyzqsc4364x7hc6m6t5w33ruqp53qx)
 - [Omniflix](https://explorer.omniflix.network/validators)
+- [Cryptocom](https://crypto.org/explorer/croeseid/validator/tcrocncl129xlqcjasyzqsc4364x7hc6m6t5w33ruqp53qx)
+
 
 
 
@@ -115,8 +120,7 @@ Others projects
 - Cosmos Network https://www.youtube.com/watch?v=cIxdLwKAYYQ&t=6s&ab_channel=PapsanLysenko
 - FreeTON Network https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko
 
-                                                   My Contacts
-						   
+                                                   My Contacts						   
 						   
  - [Telegram](https://t.me/hekit)
  - [Twitter](https://twitter.com/web34ever)
