@@ -15,7 +15,27 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75)
 
+- [Moonbeam Collator](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4)
+		
+- [Free TON](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)
+
+- [TheGraph Indexer](https://thegraph.com/explorer/profile?id=0xd93456bf656436e66a8e0a8835c43a6f59afbb37&view=Indexing)	
+
+- [Casper](https://cspr.live/account/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43)
+ 
+- [Idena](https://scan.idena.io/address/0x8f13de3aad441684cdfb84c5410f845697cce378#rewards)
+
+- [XX-Network](https://dashboard.xx.network/nodes/CbbUZQAwfg7uSVebxdMLS76YQatTG9YZXp0OjmOpT8MC)
+
+#Cosmos Networks
+
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx)	
+
+- [Omniflix](https://www.mintscan.io/omniflix/validators/omniflixvaloper147l6zgkn7af5d2rgxktt5wavct2l4hf5hf79hm)	
+
+- [Evmos](https://www.mintscan.io/evmos/validators/evmosvaloper1rq0r53s3wg4854n05tg0hrw5u3jaqlw483z0pg)	
+
+- [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1jg39wazpukeqcytuuad7tsn3end22spg2m4u0x)	
 
 - [Certik](https://www.mintscan.io/certik/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq)	
 
@@ -33,17 +53,8 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Bitsong](https://explorebitsong.com/staking/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
 
-- [XX-Network](https://dashboard.xx.network/nodes/CbbUZQAwfg7uSVebxdMLS76YQatTG9YZXp0OjmOpT8MC)
 
-- [Moonbeam Collator](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4)
-		
-- [Free TON](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)
 
-- [TheGraph Indexer](https://thegraph.com/explorer/profile?id=0xd93456bf656436e66a8e0a8835c43a6f59afbb37&view=Indexing)	
-
-- [Casper](https://cspr.live/account/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43)
- 
-- [Idena](https://scan.idena.io/address/0x8f13de3aad441684cdfb84c5410f845697cce378#rewards)
 
 
 						        Test-Networks 
