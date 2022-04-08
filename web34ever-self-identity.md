@@ -87,8 +87,10 @@ Cosmos SDK projects:
 - [Cryptocom](https://crypto.org/explorer/croeseid/validator/tcrocncl129xlqcjasyzqsc4364x7hc6m6t5w33ruqp53qx)
 - [Omniflix](https://explorer.omniflix.network/validators)
 - [Cryptocom](https://crypto.org/explorer/croeseid/validator/tcrocncl129xlqcjasyzqsc4364x7hc6m6t5w33ruqp53qx)
-
-
+- [Pylons](https://wallet.pylons.tech/validator/pylovaloper18c2a42u3kfmey32nadk7a4qsc9wrrz8w83muu7)
+- [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper18mcmka5np287fnv9803f8hly29s2yuygp0a5kx)
+- [Archway](https://explorer.augusta-1.archway.tech/validator/archwayvaloper1nqkwjumz6s2n6zk9fv5jhldupatzup67uawf96)
+- [Chronic-Token](https://ping.pub/chronic-token/staking/chronicvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxv0r7khh)
 
 
 Others projects
