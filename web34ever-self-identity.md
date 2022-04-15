@@ -141,5 +141,22 @@ Others projects
  - [GitHub](https://github.com/cybernekit)
  - [Website](https://web34ever.network/)
 						  
+						  Infra
+Equinix Bare metal 
+
+m3.large.x86                                                  c3.medium.x86
+1x AMD EPYC 7502P 32-Core Processor @ 2.5Ghz                  AMD EPYC 7402P 24-Core Processor
+2x 240GB SSD                                                  2x 240GB SSD
+2x 3.8TB NVME                                                 2x 480GB SSD
+256GB RAM                                                     64GB RAM
+2x 25Gbps                                                     2x 10Gbps
+
+s3.xlarge
+2x Intel(R) Xeon(R) Silver 4214 CPU @ 2.20GHz
+2x 960GB SSD
+2x 240GB NVME
+12x 8TB HDD
+192GB RAM
+2x 10Gbps						  
 						   
 More info soon... <br />
