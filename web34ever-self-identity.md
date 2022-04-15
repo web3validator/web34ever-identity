@@ -144,12 +144,13 @@ Others projects
 						  Infra
 Equinix Bare metal 
 
-m3.large.x86                                                  c3.medium.x86
-1x AMD EPYC 7502P 32-Core Processor @ 2.5Ghz                  AMD EPYC 7402P 24-Core Processor
-2x 240GB SSD                                                  2x 240GB SSD
-2x 3.8TB NVME                                                 2x 480GB SSD
-256GB RAM                                                     64GB RAM
-2x 25Gbps                                                     2x 10Gbps
+m3.large.x86                                                  
+1x AMD EPYC 7502P 32-Core Processor @ 2.5Ghz                  
+2x 240GB SSD                                                 
+2x 3.8TB NVME                                                
+256GB RAM                                                    
+2x 25Gbps                                                   ;
+
 
 s3.xlarge
 2x Intel(R) Xeon(R) Silver 4214 CPU @ 2.20GHz
@@ -157,6 +158,13 @@ s3.xlarge
 2x 240GB NVME
 12x 8TB HDD
 192GB RAM
-2x 10Gbps						  
+2x 10Gbps	;
+
+c3.medium.x86
+1x AMD EPYC 7402P 24-Core Processor
+2x 240GB SSD
+2x 480GB SSD
+64GB RAM
+2x 10Gbps
 						   
 More info soon... <br />
