@@ -158,7 +158,7 @@ s3.xlarge
 2x 240GB NVME
 12x 8TB HDD
 192GB RAM
-2x 10Gbps	;
+2x 10Gbps	                                       ;
 
 c3.medium.x86
 1x AMD EPYC 7402P 24-Core Processor
