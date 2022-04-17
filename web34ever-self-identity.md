@@ -53,7 +53,7 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Bitsong](https://explorebitsong.com/staking/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
  
-- [Chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pc9jh75t)
+- [Chronic-Token](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pc9jh75t)
 
 
 
@@ -93,6 +93,7 @@ Cosmos SDK projects:
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper18mcmka5np287fnv9803f8hly29s2yuygp0a5kx)
 - [Archway](https://explorer.augusta-1.archway.tech/validator/archwayvaloper1nqkwjumz6s2n6zk9fv5jhldupatzup67uawf96)
 - [Chronic-Token](https://ping.pub/chronic-token/staking/chronicvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxv0r7khh)
+- [Evmos](https://testnet.mintscan.io/evmos-testnet/validators/evmosvaloper1rq0r53s3wg4854n05tg0hrw5u3jaqlw483z0pg)
 
 
 Others projects
