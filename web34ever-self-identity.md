@@ -157,16 +157,16 @@ m3.large.x86
 
 
 s3.xlarge
-2x Intel(R) Xeon(R) Silver 4214 CPU @ 2.20GHz
-2x 960GB SSD
+2x Intel(R) Xeon(R) Silver 4214 CPU @ 2.20GHz ;  
+2x 960GB SSD  ;  
 2x 240GB NVME                                          ;
-12x 8TB HDD
-192GB RAM
+12x 8TB HDD  ;  
+192GB RAM  ;  
 2x 10Gbps	                                            ;
 
 c3.medium.x86
-1x AMD EPYC 7402P 24-Core Processor
-2x 240GB SSD
+1x AMD EPYC 7402P 24-Core Processor;  
+2x 240GB SSD;  
 2x 480GB SSD                                     
 64GB RAM                                                    ;       
 2x 10Gbps                                                   ;
