@@ -61,7 +61,7 @@ Passionate experts with over five years of expertise in decentralized technologi
 							Blochains grow here
 
 Cosmos SDK projects:
-- [Cyber.papge](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j) 
+- [Cyber.page](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j) 
 - [Certik](https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1) 
 - [Bitsong](https://explorebitsong.com/staking/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
 - [Althea](https://testnet.althea.aneka.io/validators/cosmosvaloper1hv0dcr9l2l090jxtuxu8nsa2jm6h307xfdcwscj)
