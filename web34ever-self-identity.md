@@ -169,6 +169,8 @@ c3.medium.x86
 2x 240GB SSD;  
 2x 480GB SSD                                     
 64GB RAM                                                    ;       
-2x 10Gbps                                                   ;
+2x 10Gbps                                                   ; 
+
+OVH 4x advance-4, 11x advance-5 ; Hetzner 3x AX42, 2x AX101 
 						   
 More info soon... <br />
