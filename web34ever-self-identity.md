@@ -17,7 +17,7 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Moonbeam Collator](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4)
 		
-- [Free TON](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)
+- [Everscale](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)
 
 - [TheGraph Indexer](https://thegraph.com/explorer/profile?id=0xd93456bf656436e66a8e0a8835c43a6f59afbb37&view=Indexing)	
 
@@ -94,6 +94,7 @@ Cosmos SDK projects:
 
 
 Others projects
+- [NeonLabs](https://neon-labs.org/)
 - [Hopr](https://telemetry.polkadot.io/#list/Zeitgeist%20Battery%20Park)
 - [Casper Network](https://github.com/cybernekit/casper-node)
 - [Filecoin]()
