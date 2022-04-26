@@ -51,7 +51,7 @@ Passionate experts with over five years of expertise in decentralized technologi
  
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1ex2m0j9gc7l49lr5qgrhnp7vy83adq0k3uj8pk)
 
-- [Bitsong](https://explorebitsong.com/staking/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
+- [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
  
 - [Chronic-Token](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pc9jh75t)
 
