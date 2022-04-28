@@ -55,6 +55,8 @@ Passionate experts with over five years of expertise in decentralized technologi
  
 - [Chronic-Token](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pc9jh75t)
 
+- [Galaxy](https://explorer.postcapitalist.io/Galaxy/staking/galaxyvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxvrxjgnp)
+
 
 
 
