@@ -41,7 +41,7 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)
  
-- [Microtick](https://explorer.microtick.zone/validator/microvaloper1mn8r3x4g2nmwmvsqqh3tsnzxp54c7qwrumgje2)
+- [Microtick](https://explorer.microtick.zone/validators/microvaloper1mn8r3x4g2nmwmvsqqh3tsnzxp54c7qwrumgje2)
 
 - [Gravity-Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1exksjeh9c0h03mxsvechrcc6axe56c5a56573y)
  
