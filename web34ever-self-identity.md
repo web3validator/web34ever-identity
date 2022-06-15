@@ -145,7 +145,7 @@ Others projects
  - [Twitter](https://twitter.com/web34ever)
  - [Keybase](https://keybase.io/web34ever)
  - [GitHub](https://github.com/cybernekit)
- - [Website](https://web34ever.network/)
+ - [Website](https://web3validator.info/)
 						  
 						  Infra
 Equinix Bare metal 
