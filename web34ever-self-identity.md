@@ -139,7 +139,8 @@ Others projects
 - Cosmos Network https://www.youtube.com/watch?v=cIxdLwKAYYQ&t=6s&ab_channel=PapsanLysenko
 - FreeTON Network https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko
 
-My contribution in projects
+                                             My contribution in projects:
+					     
 Web3 validator provides much more than security! We are actively participate in the development of the Network and Community by providing informational, technical and humanitarian support!
 
 @EvmosUpTime_bot
@@ -148,14 +149,6 @@ Self-made bot that not only warns that the validator is already in jail but ping
 
 @OmniflixUpTime_bot
 Self-made bot that not only warns that the validator is already in jail but pings you when your validator start to skiping blocks to keep you out of jail !!!
-
-
-Bringing DeFi to Cosmos
-3d video content 1st Place in video contest!
-
-
-Everscale (FreeTon) video advertisement
-My contribution! 2nd Place in Everscale video contest
 
 
 @Bostrom_UpTime_Checker
