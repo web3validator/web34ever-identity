@@ -57,12 +57,35 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxvrxjgnp)
 
-
-
+- [Genesis](https://ping.pub/genesisl1/staking/genesisvaloper10x5stkzceeefj87ku75uvjvxyr6zu9rd5a8mp5)
 
 
 						        Test-Networks 
 							Blochains grow here
+							
+							Active
+							         
+- [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1xz2le0jnrzv9eqedd9ldj3lsyf3qss4tj8xn4z)
+- [KQCOSMOS-1](https://testnet.explorer.testnet.run/kqcosmos-1/staking)
+- [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
+- [Sei]([https://sei.explorers.guru/](https://sei.explorers.guru/validator/seivaloper123ywh7wtrrcwx0q5pmwx585ayrgfym433qqhze))
+- [Paloma](https://paloma.explorers.guru/validator/palomavaloper1ysyl8t7ghue2gsdv82hr22mcrquekd0x5jtshf)
+- [Bundlr](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
+- [Aura](https://testnet.owlstake.com/Aura-Network/staking/auravaloper1clwszjl2m0zjpu94lyzx8lpmzdv8vgv39xctwk)
+- [Cardchain](https://explorers.acloud.pp.ua/cardchain/staking)
+- [Teritory](https://explorer.ericet.xyz/teritori/staking/torivaloper15vwequkv7mflk86zucqj9kc2nzcfwckvy0nvfa)
+- [BlockPI](https://testnet.explorer.blockpi.io/hypernode/0xb3480a304a6a8247d6779b8d54fbc6cc14dffd8f?page=5&perPage=20)
+- [Stride](https://poolparty.stride.zone/STRIDE/staking/stridevaloper1qtxd3zqr8692qha8whjrndf36g4t5sgv7pxvdf)
+- [Masa](https://auth.masa.finance/)	
+- [Sui](https://explorer.devnet.sui.io/)
+- [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper18mcmka5np287fnv9803f8hly29s2yuygp0a5kx)
+- [Pylons](https://wallet.pylons.tech/validator/pylovaloper1tdmeurwdu9ew5rlw04wjsc65caaqug274h3fwx)
+- [chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pc9jh75t)
+- [Near](https://explorer.shardnet.near.org/nodes/validators)
+
+
+
+                                                   Not  Active
 
 Cosmos SDK projects:
 - [Cyber.page](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j) 
