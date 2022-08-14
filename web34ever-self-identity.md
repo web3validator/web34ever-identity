@@ -68,7 +68,7 @@ Passionate experts with over five years of expertise in decentralized technologi
 - [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1xz2le0jnrzv9eqedd9ldj3lsyf3qss4tj8xn4z)
 - [KQCOSMOS-1](https://testnet.explorer.testnet.run/kqcosmos-1/staking)
 - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
-- [Sei]([https://sei.explorers.guru/](https://sei.explorers.guru/validator/seivaloper123ywh7wtrrcwx0q5pmwx585ayrgfym433qqhze))
+- [Sei](https://sei.explorers.guru/validator/seivaloper123ywh7wtrrcwx0q5pmwx585ayrgfym433qqhze)
 - [Paloma](https://paloma.explorers.guru/validator/palomavaloper1ysyl8t7ghue2gsdv82hr22mcrquekd0x5jtshf)
 - [Bundlr](https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4)
 - [Aura](https://testnet.owlstake.com/Aura-Network/staking/auravaloper1clwszjl2m0zjpu94lyzx8lpmzdv8vgv39xctwk)
