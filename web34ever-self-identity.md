@@ -3,7 +3,7 @@
 ## Who am I?
 Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2015 with powerful knowledge and exhaustive experience in crypto industry. Co-founder of the rapidly developing crypto [Distributed Validator Synctems](https://validators.network/). Co-founder and mentor in [validator school](https://github.com/Distributed-Validators-Synctems/Validator-School).
 
-Feel free to familiarize yourself with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
+Please feel free to familiarize with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
 
 ##                               # web34ever validate 26 main-nets
                                                         Main-Networks
