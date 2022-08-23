@@ -59,6 +59,8 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 - [Genesis](https://ping.pub/genesisl1/staking/genesisvaloper10x5stkzceeefj87ku75uvjvxyr6zu9rd5a8mp5)
 
+- [Passage](https://passage.aneka.io/validators/pasgvaloper14vyqdka2r444hl6hj29fspa7yta3hu4yc0kk2q)
+
 
 						        Test-Networks 
 							Blochains grow here
