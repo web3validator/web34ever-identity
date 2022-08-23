@@ -146,44 +146,48 @@ Others projects
 
                                                    AMBASSADOR CAMPAIGNS
 						   
-- [Covalent]()
-- [Polygon]()
-- [Octopus Network]()
-- [FreeTON]()
-- [Cyber]()
-- [Qredo]()
-- [TheGraph]()
-- [Secret Network]()
-- [Moonbeam]()
-- [Goldfinch finance]()
+- [Covalent]
+- [Polygon]
+- [Octopus Network]
+- [FreeTON]
+- [Cyber]
+- [Qredo]
+- [TheGraph]
+- [Secret Network]
+- [Moonbeam]
+- [Goldfinch finance]
 
                                              My contribution 3d video works:
 
-- Cosmos Network https://www.youtube.com/watch?v=cIxdLwKAYYQ&t=6s&ab_channel=PapsanLysenko
-- FreeTON Network https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko
+- [Cosmos Network](https://www.youtube.com/watch?v=cIxdLwKAYYQ&t=6s&ab_channel=PapsanLysenko)
+- [FreeTON Network](https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko)
 
                                              My contribution in projects:
 					     
 Web3 validator provides much more than security! We are actively participate in the development of the Network and Community by providing informational, technical and humanitarian support!
 
-@EvmosUpTime_bot
+[@EvmosUpTime_bot](https://t.me/EvmosUpTime_bot)
+
 Self-made bot that not only warns that the validator is already in jail but pings you when your validator start to skiping blocks to keep you out of jail !!!
 
 
-@OmniflixUpTime_bot
+[@OmniflixUpTime_bot](https://t.me/OmniflixUpTime_bot)
+
 Self-made bot that not only warns that the validator is already in jail but pings you when your validator start to skiping blocks to keep you out of jail !!!
 
 
-@Bostrom_UpTime_Checker
+[@Bostrom_UpTime_Checker](https://t.me/Bostrom_UpTime_Checker)
+
 Uptime-checker for Bostrom network! Productive monitoring for nodes with video computing
 
 
-@JunoUpTime_bot
+[@JunoUpTime_bot](https://t.me/Bostrom_UpTime_Checker)
+
 Uptime-checker for Juno network! Check your uptime all day , all night!
 
 
-Connext Router SetupGuide
-I've created the video guide with my self made script how to setup ConnextNetwork Router
+[Connext Router SetupGuide](https://github.com/cybernekit/RouterSetupGuide)
+I've created the video guide with my self made script ConnextNetwork
 
 
                                                    My Contacts						   
