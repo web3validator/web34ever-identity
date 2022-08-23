@@ -201,7 +201,7 @@ I've created the video guide with my self made script ConnextNetwork
  - [Keybase](https://keybase.io/web34ever)
  - [GitHub](https://github.com/cybernekit)
  - [Website](https://web3validator.info/)
- - [Discord] web34ever#8672
+ - [Discord](https://discord.gg/bvd779GDBt)
 						  
 						  Infra
 Equinix Bare metal 
