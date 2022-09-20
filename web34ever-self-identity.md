@@ -168,17 +168,16 @@ Others projects
 
                                              My contribution in projects:
 					     
-Web3 validator provides much more than security! We are actively participate in the development of the Network and Community by providing informational, technical and humanitarian support!
-
-[@EvmosUpTime_bot](https://t.me/EvmosUpTime_bot)
-
-Self-made bot that not only warns that the validator is already in jail but pings you when your validator start to skiping blocks to keep you out of jail !!!
+Without installing any software (grafana, tenderduty, prometheus or etc.)
+Self-made bot that not only warns that the validator is already in jail but pings you when your validator start to skiping blocks to keep you out of jail !!! 
 
 
 [@OmniflixUpTime_bot](https://t.me/OmniflixUpTime_bot)
 
-Self-made bot that not only warns that the validator is already in jail but pings you when your validator start to skiping blocks to keep you out of jail !!!
-
+* Bugs have been fixed 
+* Has been added the function of reporting the time left before going to jail . 
+* The limit of validators for tracking has been increased.
+* Added a clear and pleasant GUI, and also a validator status check 
 
 [@Bostrom_UpTime_Checker](https://t.me/Bostrom_UpTime_Checker)
 
