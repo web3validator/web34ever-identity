@@ -166,7 +166,7 @@ Others projects
 - Cosmos Network - [YouTube link](https://www.youtube.com/watch?v=cIxdLwKAYYQ&t=6s&ab_channel=PapsanLysenko)
 - FreeTON Network - [YouTube link](https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko)
 
-                                             My contribution in projects:
+                                             My contribution in projects
 					     
 Without installing any software (grafana, tenderduty, prometheus or etc.)
 Self-made bot that not only warns that the validator is already in jail but pings you when your validator start to skiping blocks to keep you out of jail !!! 
