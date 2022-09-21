@@ -173,7 +173,7 @@ Self-made bot that not only warns that the validator is already in jail but ping
 
                                              RPC nodes:
 
-[Omniflix](http://omniflix.web3validator.info:26657/)
+[http://omniflix.web3validator.info](http://omniflix.web3validator.info:26657/)
 
                                              Monitoring Uptime bots:
 
