@@ -171,6 +171,11 @@ Others projects
 Without installing any software (grafana, tenderduty, prometheus or etc.)
 Self-made bot that not only warns that the validator is already in jail but pings you when your validator start to skiping blocks to keep you out of jail !!! 
 
+                                             RPC nodes:
+
+[Omniflix](http://omniflix.web3validator.info:26657/)
+
+                                             Monitoring Uptime bots:
 
 [@OmniflixUpTime_bot](https://t.me/OmniflixUpTime_bot)
 
