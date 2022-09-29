@@ -172,9 +172,17 @@ Others projects
 - FreeTON Network - [YouTube link](https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko)
 
                                              My contribution in projects
-					     
-Without installing any software (grafana, tenderduty, prometheus or etc.)
-Self-made bot that not only warns that the validator is already in jail but pings you when your validator start to skiping blocks to keep you out of jail !!! 
+
+Web3 validator provides much more than security! We are actively participating in the development of the Network and Community by providing informational, technical and humanitarian support! The Web3 Validator team has developed a very well thought out monitoring bot that can monitor your node and much more. We can implement it on various Cosmos SDK networks and will gladly add it to any new network!  
+It's just super convenient:
+* Without installing any software (grafana, tenderduty, prometheus or etc.)
+* That bot not only warns that the validator is already in jail but pings you when your validator start to skiping blocks to keep you out of jail !!! 
+* Сan tell you about the time left before being sent to jail.
+* Clear and pleasant GUI, and also a validator status check. Also this bot can be customisable and it may be add many other function. We already implement in many known cosmo-networks and all of them support us check twit about this:
+https://twitter.com/web34ever/status/1570040696081420288
+https://twitter.com/web34ever/status/1570040696081420288
+https://twitter.com/web34ever/status/1568492719290433546
+https://twitter.com/web34ever/status/1573734639172308992
 
                                              RPC nodes:
 
