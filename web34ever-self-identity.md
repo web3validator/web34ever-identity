@@ -126,8 +126,11 @@ Cosmos SDK projects:
 
 
 Others projects
+
 - [MinaProtocol- Genesis Member](https://mina.staketab.com/mina/mainnet/validator/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75)
 - [TheGrap - Curator](https://app.poap.xyz/token/469757)
+- [BlockPi](https://testnet.explorer.blockpi.io/hypernode/0xb3480a304a6a8247d6779b8d54fbc6cc14dffd8f?networkId=8217&page=1&perPage=100)
+- [Near](https://explorer.shardnet.near)
 - [NeonLabs](https://neon-labs.org/)
 - [Hopr](https://telemetry.polkadot.io/#list/Zeitgeist%20Battery%20Park)
 - [Casper Network](https://github.com/cybernekit/casper-node)
