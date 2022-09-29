@@ -65,7 +65,7 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 
 						        Test-Networks 
-							Blochains grow here
+							Blockchains grow here
 							
 							Active
 							         
@@ -127,6 +127,7 @@ Cosmos SDK projects:
 
 Others projects
 - [MinaProtocol- Genesis Member](https://mina.staketab.com/mina/mainnet/validator/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75)
+- [TheGrap - Curator](https://app.poap.xyz/token/469757)
 - [NeonLabs](https://neon-labs.org/)
 - [Hopr](https://telemetry.polkadot.io/#list/Zeitgeist%20Battery%20Park)
 - [Casper Network](https://github.com/cybernekit/casper-node)
