@@ -179,11 +179,9 @@ It's just super convenient:
 * That bot not only warns that the validator is already in jail but pings you when your validator start to skiping blocks to keep you out of jail !!! 
 * Сan tell you about the time left before being sent to jail.
 * Clear and pleasant GUI, and also a validator status check. Also this bot can be customisable and it may be add many other function. We already implement in many known cosmo-networks and all of them support us check twit like this:
-https://twitter.com/web34ever/status/1570040696081420288,
-
-https://twitter.com/web34ever/status/1568492719290433546,
-
-https://twitter.com/web34ever/status/1573734639172308992
+[link](https://twitter.com/web34ever/status/1570040696081420288),
+[link](https://twitter.com/web34ever/status/1568492719290433546),
+[link](https://twitter.com/web34ever/status/1573734639172308992)
 
                                              RPC nodes:
 
