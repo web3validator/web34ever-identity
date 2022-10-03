@@ -63,6 +63,8 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Passage](https://passage.aneka.io/validators/pasgvaloper14vyqdka2r444hl6hj29fspa7yta3hu4yc0kk2q)
 
+- [Teritori]()
+
 
 						        Test-Networks 
 							Blockchains grow here
