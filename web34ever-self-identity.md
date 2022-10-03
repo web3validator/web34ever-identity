@@ -86,6 +86,7 @@ Please feel free to familiarize with the list of projects below to which I contr
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1tdmeurwdu9ew5rlw04wjsc65caaqug274h3fwx)
 - [chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pc9jh75t)
 - [Near](https://explorer.shardnet.near.org/nodes/validators)
+- [Blast Api](https://houston.blastapi.io/explorer/0xc398f4c0e22c86b5997c089244f8e335ab3edefd)
 
 
 
