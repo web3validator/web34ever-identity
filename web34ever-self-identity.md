@@ -63,7 +63,7 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Passage](https://passage.aneka.io/validators/pasgvaloper14vyqdka2r444hl6hj29fspa7yta3hu4yc0kk2q)
 
-- [Teritori]()
+- [Teritori](https://teritori.explorers.guru/validator/torivaloper1x6vfjy754fvzrlug2kxsp6s54yfj753sjtr70f)
 
 
 						        Test-Networks 
