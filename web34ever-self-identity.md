@@ -72,6 +72,7 @@ Please feel free to familiarize with the list of projects below to which I contr
 							Active
 							         
 - [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1xz2le0jnrzv9eqedd9ldj3lsyf3qss4tj8xn4z)
+- [Moonbase Collator](https://moonbase.subscan.io/account/0xBD257396eD62526054f41Be2065b3d1532485189))
 - [KQCOSMOS-1](https://testnet.explorer.testnet.run/kqcosmos-1/staking)
 - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 - [Sei](https://sei.explorers.guru/validator/seivaloper123ywh7wtrrcwx0q5pmwx585ayrgfym433qqhze)
