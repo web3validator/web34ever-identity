@@ -65,6 +65,8 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Teritori](https://teritori.explorers.guru/validator/torivaloper1x6vfjy754fvzrlug2kxsp6s54yfj753sjtr70f)
 
+- [Rebus](https://rebus.explorers.guru/validator/rebusvaloper17xkn5uj7nmdgz8d3t6k4pg44d9j7xdh2ll0fyu))
+
 
 						        Test-Networks 
 							Blockchains grow here
