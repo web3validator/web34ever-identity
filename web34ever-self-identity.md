@@ -160,6 +160,7 @@ Others projects
 
 
                                                    AMBASSADOR CAMPAIGNS
+My ambassador portfolio -> [here](https://docs.google.com/document/d/1oxpMh1xUdl2tv-KxstnPIuO8ujJ2GmI_q5mD5gsSfQU/edit)
 						   
 - [Covalent]
 - [Polygon]
