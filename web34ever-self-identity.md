@@ -49,13 +49,13 @@ Please feel free to familiarize with the list of projects below to which I contr
  
 - [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper17kpyk8nqwr0dkv4nz5j4d3r9umfm23we0fk8wj)
 
-- [Likecoin](https://likecoin.bigdipper.live/validator/cosmosvaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6eu6q5h)
- 
+- [Likecoin](https://www.mintscan.io/likecoin/validators/likevaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6emyftv)
+
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1ex2m0j9gc7l49lr5qgrhnp7vy83adq0k3uj8pk)
 
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
  
-- [Chronic-Token](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pc9jh75t)
+- [Terp](https://www.skynetexplorers.com/terpnetwork/staking/terpvaloper1y2euvdy8rvtr989tyf0u9atttt8yxa733y9te2)
 
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxvrxjgnp)
 
