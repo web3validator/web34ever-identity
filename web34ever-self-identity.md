@@ -73,8 +73,11 @@ Please feel free to familiarize with the list of projects below to which I contr
 							
 							Active
 							         
-- [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1xz2le0jnrzv9eqedd9ldj3lsyf3qss4tj8xn4z)
-- [Moonbase Collator](https://moonbase.subscan.io/account/0xBD257396eD62526054f41Be2065b3d1532485189))
+
+- [Near](https://explorer.shardnet.near.org/nodes/validators)
+- [Blast Api](https://houston.blastapi.io/explorer/0xc398f4c0e22c86b5997c089244f8e335ab3edefd)
+- [Moonbase Collator](https://moonbase.subscan.io/account/0xBD257396eD62526054f41Be2065b3d1532485189)
+- [Androma](https://explorer.bccnodes.com/androma/staking/andrvaloper125a32hafpqvxzaxk2rk582ejpua8jk072udnfe)
 - [KQCOSMOS-1](https://testnet.explorer.testnet.run/kqcosmos-1/staking)
 - [Kyve](https://explorer.kyve.network/korellia/staking/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7)
 - [Sei](https://sei.explorers.guru/validator/seivaloper123ywh7wtrrcwx0q5pmwx585ayrgfym433qqhze)
@@ -90,8 +93,7 @@ Please feel free to familiarize with the list of projects below to which I contr
 - [Uptick](https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper18mcmka5np287fnv9803f8hly29s2yuygp0a5kx)
 - [Pylons](https://wallet.pylons.tech/validator/pylovaloper1tdmeurwdu9ew5rlw04wjsc65caaqug274h3fwx)
 - [chronic](https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pc9jh75t)
-- [Near](https://explorer.shardnet.near.org/nodes/validators)
-- [Blast Api](https://houston.blastapi.io/explorer/0xc398f4c0e22c86b5997c089244f8e335ab3edefd)
+- [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1xz2le0jnrzv9eqedd9ldj3lsyf3qss4tj8xn4z)
 
 
 
