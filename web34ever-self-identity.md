@@ -67,12 +67,10 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Rebus](https://rebus.explorers.guru/validator/rebusvaloper17xkn5uj7nmdgz8d3t6k4pg44d9j7xdh2ll0fyu)
 
-
 						        Test-Networks 
 							Blockchains grow here
 							
-							Active
-							         
+							Active						         
 
 - [Near](https://explorer.shardnet.near.org/nodes/validators)
 - [Blast Api](https://houston.blastapi.io/explorer/0xc398f4c0e22c86b5997c089244f8e335ab3edefd)
