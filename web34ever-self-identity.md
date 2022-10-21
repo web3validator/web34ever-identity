@@ -27,7 +27,7 @@ Please feel free to familiarize with the list of projects below to which I contr
  
 - [Idena](https://scan.idena.io/address/0x8f13de3aad441684cdfb84c5410f845697cce378#rewards)
 
-- [XX-Network](https://dashboard.xx.network/nodes/CbbUZQAwfg7uSVebxdMLS76YQatTG9YZXp0OjmOpT8MC)
+- [XX-Network](https://explorer.xx.network/accounts/6VaJ35ts5timzFThyYYyFAcswZ2zs73hzS2RsADPWyXcNwnM))
 
 #Cosmos Networks
 
