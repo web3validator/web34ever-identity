@@ -254,5 +254,5 @@ c3.medium.x86
 64GB RAM                                                    ;       
 2x 10Gbps                                                   ; 
 
-OVH 4x advance-4, 11x advance-5 ; Hetzner 3x AX41-NVME, 2x AX101 
+StackPath,Edgevanna,OVH
 						   
