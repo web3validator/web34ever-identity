@@ -255,4 +255,5 @@ c3.medium.x86
 2x 10Gbps                                                   ; 
 
 StackPath,Edgevanna,OVH
-						   
+
+Our team validates a huge number of mainnets and participates in various testnet programs. We are very interested  in projects in which we can contribute and gain/give additional knowledge.					   
