@@ -16,18 +16,16 @@ Please feel free to familiarize with the list of projects below to which I contr
 - [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
 
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75)
-
-- [Moonbeam Collator](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4)
 		
 - [Everscale](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)
 
 - [TheGraph Indexer](https://thegraph.com/explorer/profile?id=0xd93456bf656436e66a8e0a8835c43a6f59afbb37&view=Indexing)	
 
 - [Casper](https://cspr.live/account/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43)
- 
-- [Idena](https://scan.idena.io/address/0x8f13de3aad441684cdfb84c5410f845697cce378#rewards)
 
 - [XX-Network](https://explorer.xx.network/accounts/6VaJ35ts5timzFThyYYyFAcswZ2zs73hzS2RsADPWyXcNwnM))
+
+- [Moonbeam Collator](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4) (not active)
 
 #Cosmos Networks
 
