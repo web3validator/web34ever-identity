@@ -70,6 +70,7 @@ Please feel free to familiarize with the list of projects below to which I contr
 							
 							Active						         
 
+- [Casper](https://testnet.cspr.live/validator/010a6b601408889363dc003943c9234e1bcd9ac074da385c45ff2cd4aa2c9283ce)
 - [Near](https://explorer.shardnet.near.org/nodes/validators)
 - [Blast Api](https://houston.blastapi.io/explorer/0xc398f4c0e22c86b5997c089244f8e335ab3edefd)
 - [Moonbase Collator](https://moonbase.subscan.io/account/0xBD257396eD62526054f41Be2065b3d1532485189)
