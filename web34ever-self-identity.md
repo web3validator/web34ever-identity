@@ -65,6 +65,8 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Rebus](https://rebus.explorers.guru/validator/rebusvaloper17xkn5uj7nmdgz8d3t6k4pg44d9j7xdh2ll0fyu)
 
+- [Acrechain](https://cosmosrun.info/acre-mainnet/staking/acrevaloper12242xw27r9v2dplr9hhy3ftpgn55tehg8fvz56)
+
 						        Test-Networks 
 							Blockchains grow here
 							
