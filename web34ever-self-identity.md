@@ -193,7 +193,7 @@ Web3 validator provides much more than security! We are actively participating i
 https://twitter.com/web34ever/status/1570040696081420288
 https://twitter.com/web34ever/status/1580155425990680576
 
-please check the list in the appropriate section on my [website...](https://web3validator.info/#contribution))
+please check the list in the appropriate section on my [website...](https://web3validator.info/#contribution)
 
 
                                                    My Contacts						   
