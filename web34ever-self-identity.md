@@ -193,31 +193,7 @@ Web3 validator provides much more than security! We are actively participating i
 https://twitter.com/web34ever/status/1570040696081420288
 https://twitter.com/web34ever/status/1580155425990680576
 
-                                             RPC nodes:
-
-[http://omniflix.web3validator.info](http://omniflix.web3validator.info:26657/)
-
-                                             Monitoring Uptime bots:
-
-[@OmniflixUpTime_bot](https://t.me/OmniflixUpTime_bot)
-
-* Bugs have been fixed 
-* Has been added the function of reporting the time left before going to jail . 
-* The limit of validators for tracking has been increased.
-* Added a clear and pleasant GUI, and also a validator status check 
-
-[@Bostrom_UpTime_Checker](https://t.me/Bostrom_UpTime_Checker)
-
-Uptime-checker for Bostrom network! Productive monitoring for nodes with video computing
-
-
-[@JunoUpTime_bot](https://t.me/Bostrom_UpTime_Checker)
-
-Uptime-checker for Juno network! Check your uptime all day , all night!
-
-
-[Connext Router SetupGuide](https://github.com/cybernekit/RouterSetupGuide)
-I've created the video guide with my self made script ConnextNetwork
+                                             more on my [website...](https://cosmosrun.info/acre-mainnet/staking/acrevaloper12242xw27r9v2dplr9hhy3ftpgn55tehg8fvz56)
 
 
                                                    My Contacts						   
