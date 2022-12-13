@@ -5,7 +5,7 @@ Passionate experts with over five years of expertise in decentralized technologi
 
 Please feel free to familiarize with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
 
-##                               # web34ever validate 26 main-nets
+##                               # web34ever validate a lot main-nets
                                                         Main-Networks
 								 	
 				
