@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/59205554/162392362-21426138-1f93-4563-a7a7-7fba06774134.PNG" alt="web34ever" width="250" height="250">
 
-## Who am I? [website](https://web3validator.info/)
+## Who am I? [My website web3validator.info](https://web3validator.info/)
 Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2015 with powerful knowledge and exhaustive experience in crypto industry. Co-founder of the rapidly developing crypto [Distributed Validator Synctems](https://validators.network/). Co-founder and mentor in [validator school](https://github.com/Distributed-Validators-Synctems/Validator-School).
 
 Please feel free to familiarize with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
