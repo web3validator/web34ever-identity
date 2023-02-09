@@ -10,7 +10,7 @@ Co-founder and mentor in [validator school](https://github.com/Distributed-Valid
 
 Please feel free to familiarize with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
 
-##                               # web3validator validate many known main networks
+##                                web3validator validate many known main networks
                                                         Main-Networks
 								 	
 				
