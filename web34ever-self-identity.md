@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/59205554/217953328-259c8b2f-fc25-4458-b69a-e17c95b1c1fe.png" alt="web34ever" width="250" height="250">
+
+<img src="https://user-images.githubusercontent.com/59205554/217953492-bdb6892e-918b-4981-8968-cf8b6f263ddd.png" alt="web34ever" width="250" height="250">
 
 ## Who am I? [web3validator.info](https://web3validator.info/)
 Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2015 with powerful knowledge and exhaustive experience in crypto industry.
