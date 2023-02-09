@@ -1,7 +1,11 @@
 <img src="https://user-images.githubusercontent.com/59205554/162392362-21426138-1f93-4563-a7a7-7fba06774134.PNG" alt="web34ever" width="250" height="250">
 
-## Who am I? [My website web3validator.info](https://web3validator.info/)
-Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2015 with powerful knowledge and exhaustive experience in crypto industry. Co-founder of the rapidly developing crypto [Distributed Validator Synctems](https://validators.network/). Co-founder and mentor in [validator school](https://github.com/Distributed-Validators-Synctems/Validator-School).
+## Who am I? [web3validator.info](https://web3validator.info/)
+Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2015 with powerful knowledge and exhaustive experience in crypto industry.
+Member of the [POSTHUMAN](https://posthuman.digital/team) core-team.
+Co-founder of the rapidly developing [Distributed Validator Synctems](https://validators.network/). 
+Co-founder and mentor in [validator school](https://github.com/Distributed-Validators-Synctems/Validator-School). 
+
 
 Please feel free to familiarize with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
 
@@ -180,20 +184,21 @@ My ambassador portfolio -> [here](https://docs.google.com/document/d/1oxpMh1xUdl
 - FreeTON Network - [YouTube link](https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko)
 
                                              My contribution in projects
+					     
+Web3 validator provides much more than security! We are actively participating in the development of the Network and Community by providing informational, technical and humanitarian support! 
 
-Web3 validator provides much more than security! We are actively participating in the development of the Network and Community by providing informational, technical and humanitarian support! The Web3 Validator team has developed a very well thought out the monitoring bot that can monitor your node uptime. We can implement it on various Cosmos SDK networks and will gladly add it to any new network! It's just super convenient:
+Please check the list on my [website...](https://web3validator.info/#contribution)
+
+The Web3 Validator team has developed the checker bot that can monitor your node uptime. We can implement it on various Cosmos SDK networks and will gladly add it to any new network! It's just super convenient:
 
 *Without installing any software (grafana, tenderduty, prometheus or etc.)
-
 *That bot not only warns that the validator is already in jail but pings you when your validator starts skipping blocks to keep you out of jail !!!
-
 *Сan tell you about the time left before being sent to jail.
-
 *Clear and pleasant GUI, and also a validator status check. Also this bot can be customizable and it may add many other functions. We already implement many known cosmo-networks and all of them fully support us. Here is the examples:
 https://twitter.com/web34ever/status/1570040696081420288
 https://twitter.com/web34ever/status/1580155425990680576
 
-please check the list in the appropriate section on my [website...](https://web3validator.info/#contribution)
+
 
 
                                                    My Contacts						   
@@ -205,7 +210,7 @@ please check the list in the appropriate section on my [website...](https://web3
  - [Website](https://web3validator.info/)
  - [Discord](https://discord.gg/bvd779GDBt)
 						  
-						  Infra
+						  Infrastructure
 Equinix Bare metal 
 
 m3.large.x86                                                  
