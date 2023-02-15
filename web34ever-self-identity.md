@@ -60,7 +60,7 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Genesis](https://ping.pub/genesisl1/staking/genesisvaloper10x5stkzceeefj87ku75uvjvxyr6zu9rd5a8mp5)
 
-- [Passage](https://passage.aneka.io/validators/pasgvaloper14vyqdka2r444hl6hj29fspa7yta3hu4yc0kk2q)
+- [Passage](https://www.mintscan.io/passage/validators/pasgvaloper14vyqdka2r444hl6hj29fspa7yta3hu4yc0kk2q)
 
 - [Teritori](https://teritori.explorers.guru/validator/torivaloper1x6vfjy754fvzrlug2kxsp6s54yfj753sjtr70f)
 
