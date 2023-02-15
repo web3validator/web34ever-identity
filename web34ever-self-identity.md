@@ -45,8 +45,6 @@ Please feel free to familiarize with the list of projects below to which I contr
 - [Certik](https://www.mintscan.io/certik/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq)	
 
 - [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)
- 
-- [Microtick](https://explorer.microtick.zone/validators/microvaloper1mn8r3x4g2nmwmvsqqh3tsnzxp54c7qwrumgje2)
 
 - [Gravity-Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1exksjeh9c0h03mxsvechrcc6axe56c5a56573y)
  
@@ -57,8 +55,6 @@ Please feel free to familiarize with the list of projects below to which I contr
 - [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1ex2m0j9gc7l49lr5qgrhnp7vy83adq0k3uj8pk)
 
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
- 
-- [Terp](https://www.skynetexplorers.com/terpnetwork/staking/terpvaloper1y2euvdy8rvtr989tyf0u9atttt8yxa733y9te2)
 
 - [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxvrxjgnp)
 
