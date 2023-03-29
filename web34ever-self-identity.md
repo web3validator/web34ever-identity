@@ -206,9 +206,9 @@ Also this bot can be customizable and it may add many other functions. We alread
  - [Website](https://web3validator.info/)
  - [Discord](https://discord.gg/bvd779GDBt)
 						  
-						  Infrastructure
-We have used enterprise-level hardware to run nodes for the most popular PoS blockchains since 2018.
-We use advanced data centers such as: Equinix,StackPath(Edgevanna), OVH
+						           Infrastructure
+             We have used enterprise-level hardware to run nodes for the most popular PoS blockchains since 2018.
+                         We use advanced data centers such as: Equinix,StackPath(Edgevanna), OVH
                                               
 ```bash
 Our team validates a huge number of mainnets and participates in various testnet programs. We are very interested in projects in which we can contribute and gain/give additional knowledge.					   
