@@ -70,10 +70,12 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Aura](https://aurascan.io/validators/auravaloper1wchng2069u332d5xpwt87gza3jts7g5nja945d)
 
+- [Nois](https://explorer.mcbnode.online/nois-mainnet/staking/noisvaloper1kmf9w8nmvsuaps2kf4smhphnj8unjcak3hczyr)
+
 						        Test-Networks 
 							Blockchains grow here
 							
-							Active						         
+							Recent						         
 
 - [Casper](https://testnet.cspr.live/validator/010a6b601408889363dc003943c9234e1bcd9ac074da385c45ff2cd4aa2c9283ce)
 - [Near](https://explorer.shardnet.near.org/nodes/validators)
@@ -98,7 +100,6 @@ Please feel free to familiarize with the list of projects below to which I contr
 - [Quicksilver](https://quicksilver.explorers.guru/validator/quickvaloper1xz2le0jnrzv9eqedd9ldj3lsyf3qss4tj8xn4z)
 
 
-
                                                    Not  Active
 
 Cosmos SDK projects:
@@ -118,7 +119,6 @@ Cosmos SDK projects:
 - [Kira](https://github.com/KiraCore/testnet)
 - [Osmosis](https://github.com/osmosis-labs/networks) 
 - [Rizon](https://testnet.mintscan.io/rizon/validators/rizonvaloper15sn3ts9jpmf23eskx7730mngftq4gta82y32jf) 
-- [Frontier]()
 - [Gravity-Bridge]()
 - [AssetMantle]()
 - [CosmicHorizon]()
@@ -145,22 +145,18 @@ Others projects
 - [Hopr](https://telemetry.polkadot.io/#list/Zeitgeist%20Battery%20Park)
 - [Casper Network](https://github.com/cybernekit/casper-node)
 - [Filecoin]()
-- [Nucypher]()
+- [Nucypher](https://blog.nucypher.com/the-final-countdown/)
 - [Swarm]()
 - [Covalent]()
 - [NYM]()	
 - [Spacemesh]()	
-- [Radicle]()	
-- [Plasm]()	
+- [Radicle]()		
 - [Aleo]()	
 - [Gateway]()
 - [Iron Fish]()
-- [Meter]()
-- [Taraxa]()
-- [Phala]()
 - [Blockstack]()
 - [Humanode]()
-- [PlatON]()
+
 
 
                                                    AMBASSADOR CAMPAIGNS
