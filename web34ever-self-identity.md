@@ -229,3 +229,33 @@ Also this bot can be customizable and it may add many other functions. We alread
 	Our team validates a huge number of mainnets and participates in various testnet programs. We are very interested in projects in which we can contribute and gain/give additional knowledge.					   
  
 
+<table>
+  <tr>
+    <td><a href="https://cyb.ai/">Cyb.ai</a></td>
+    <td><a href="https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1">Certik</a></td>
+    <td><a href="https://explorebitsong.com/staking/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4">Bitsong</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://testnet.althea.aneka.io/validators/cosmosvaloper1hv0dcr9l2l090jxtuxu8nsa2jm6h307xfdcwscj">Althea</a></td>
+    <td><a href="http://5k6rp916o9807flqte7ruq1bk0.ingress.ewr1p0.mainnet.akashian.io/">Akash Network</a></td>
+    <td><a href="https://juno.omniflix.co/">Juno</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://explorer.cygnusx-1.publicawesome.dev/validator/starsvaloper1jg39wazpukeqcytuuad7tsn3end22spg2m4u0x">Stargaze</a></td>
+    <td><a href="https://regen.aneka.io/validators?page=active">Regen Network</a></td>
+    <td><a href="https://likecoin.bigdipper.live/validator/cosmosvaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6eu6q5h">Likecoin</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://explorer.sentinel.co/validator/sentvaloper1qx4p43c480wxsxt63wfdvupzqp4dduknxldygu">Sentinel</a></td>
+    <td><a href="#">Iris-Network</a></td>
+    <td><a href="https://testnet.althea.aneka.io/validators/cosmosvaloper1hv0dcr9l2l090jxtuxu8nsa2jm6h307xfdcwscj">Althea</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://explorer.decentr.net/validators/decentrvaloper1xmfyelmhajhswh4m2pqxw9vm6yjw3866j4nmls">Decentr</a></td>
+    <td><a href="https://github.com/KiraCore/testnet">Kira</a></td>
+    <td><a href="https://github.com/osmosis-labs/networks">Osmosis</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://testnet.mintscan.io/rizon/validators/rizonvaloper15sn3ts9jpmf23eskx7730mngftq4gta82y32jf">Rizon</a></td>
+    <td><a
+
