@@ -196,7 +196,7 @@ The Web3 Validator team has developed the checker bot that can monitor your node
 
 *Сan tell you about the time left before being sent to jail.
 
-*Clear and pleasant GUI, and also a validator status check. 
+*Clear and pleasant interface and validator status check. 
 Also this bot can be customizable and it may add many other functions. We already implement many known cosmo-networks and all of them fully support us.
 
 
