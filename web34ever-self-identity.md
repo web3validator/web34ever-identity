@@ -167,10 +167,6 @@ Cosmos SDK projects:
     <td><a href="https://explorer.augusta-1.archway.tech/validator/archwayvaloper1nqkwjumz6s2n6zk9fv5jhldupatzup67uawf96">Archway</a></td>
     <td><a href="https://ping.pub/chronic-token/staking/chronicvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxv0r7khh">Chronic-Token</a></td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
 </table> 
 
 
