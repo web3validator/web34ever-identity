@@ -208,7 +208,7 @@ Also this bot can be customizable and it may add many other functions. We alread
 						  
 						  Infrastructure
 We have used enterprise-level hardware to run nodes for the most popular PoS blockchains since 2018.
-We use advanced data centers such as: Equinix, StackPath, Edgevanna, OVH
+We use advanced data centers such as: Equinix,StackPath(Edgevanna), OVH
                                               
 
 
