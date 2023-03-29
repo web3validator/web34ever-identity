@@ -207,31 +207,9 @@ Also this bot can be customizable and it may add many other functions. We alread
  - [Discord](https://discord.gg/bvd779GDBt)
 						  
 						  Infrastructure
-Equinix Bare metal 
+We have used enterprise-level hardware to run nodes for the most popular PoS blockchains since 2018.
+We use advanced data centers such as: Equinix, StackPath, Edgevanna, OVH
+                                              
 
-m3.large.x86                                                  
-1x AMD EPYC 7502P 32-Core Processor @ 2.5Ghz                  
-2x 240GB SSD                                                 
-2x 3.8TB NVME                                                
-256GB RAM                                                    
-2x 25Gbps                                                   ;
-
-
-s3.xlarge
-2x Intel(R) Xeon(R) Silver 4214 CPU @ 2.20GHz ;  
-2x 960GB SSD  ;  
-2x 240GB NVME                                          ;
-12x 8TB HDD  ;  
-192GB RAM  ;  
-2x 10Gbps	                                            ;
-
-c3.medium.x86
-1x AMD EPYC 7402P 24-Core Processor;  
-2x 240GB SSD;  
-2x 480GB SSD                                     
-64GB RAM                                                    ;       
-2x 10Gbps                                                   ; 
-
-StackPath,Edgevanna,OVH
 
 Our team validates a huge number of mainnets and participates in various testnet programs. We are very interested  in projects in which we can contribute and gain/give additional knowledge.					   
