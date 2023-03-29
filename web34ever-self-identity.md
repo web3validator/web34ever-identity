@@ -99,6 +99,7 @@ Please feel free to familiarize with the list of projects below to which I contr
         <li><a href="https://paloma.explorers.guru/validator/palomavaloper1ysyl8t7ghue2gsdv82hr22mcrquekd0x5jtshf">Paloma</a></li>
         <li><a href="https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4">Bundlr</a></li>
         <li><a href="https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper18mcmka5np287fnv9803f8hly29s2yuygp0a5kx">Uptick</a></li>
+        <li><a href="https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1">Certik</a></li>
       </ul>
     </td>
     <td>
@@ -118,7 +119,7 @@ Please feel free to familiarize with the list of projects below to which I contr
                                                    Not  Active
 
 Cosmos SDK projects:
-- [Cyber.page](https://rebyc.cyber.page/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j) 
+- [Cyb.ai](cyb.ai) 
 - [Certik](https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1) 
 - [Bitsong](https://explorebitsong.com/staking/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
 - [Althea](https://testnet.althea.aneka.io/validators/cosmosvaloper1hv0dcr9l2l090jxtuxu8nsa2jm6h307xfdcwscj)
