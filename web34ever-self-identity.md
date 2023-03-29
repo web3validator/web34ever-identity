@@ -191,12 +191,13 @@ Feel free to check the list on my [website...](https://web3validator.info/#contr
 The Web3 Validator team has developed the checker bot that can monitor your node uptime. We can implement it on various Cosmos SDK networks and will gladly add it to any new network! It's just super convenient:
 
 *Without installing any software (grafana, tenderduty, prometheus or etc.)
-*That bot not only warns that the validator is already in jail but pings you when your validator starts skipping blocks to keep you out of jail !!!
-*Сan tell you about the time left before being sent to jail.
-*Clear and pleasant GUI, and also a validator status check. Also this bot can be customizable and it may add many other functions. We already implement many known cosmo-networks and all of them fully support us. Here is the examples:
-https://twitter.com/web34ever/status/1570040696081420288
-https://twitter.com/web34ever/status/1580155425990680576
 
+*That bot not only warns that the validator is already in jail but pings you when your validator starts skipping blocks to keep you out of jail
+
+*Сan tell you about the time left before being sent to jail.
+
+*Clear and pleasant GUI, and also a validator status check. 
+Also this bot can be customizable and it may add many other functions. We already implement many known cosmo-networks and all of them fully support us.
 
 
 
