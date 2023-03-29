@@ -110,7 +110,8 @@ Please feel free to familiarize with the list of projects below to which I contr
         <li><a href="https://testnet.explorer.blockpi.io/hypernode/0xb3480a304a6a8247d6779b8d54fbc6cc14dffd8f?page=5&perPage=20">BlockPi</a></li>
         <li><a href="https://poolparty.stride.zone/STRIDE/staking/stridevaloper1qtxd3zqr8692qha8whjrndf36g4t5sgv7pxvdf">Stride</a></li>
         <li><a href="https://explorer.devnet.sui.io">Sui</a></li>
-		
+        </tr>
+</table>
 		
 
 
