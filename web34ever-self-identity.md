@@ -212,3 +212,30 @@ Also this bot can be customizable and it may add many other functions. We alread
                                               
 	Our team validates a huge number of mainnets and participates in various testnet programs. We are very interested in projects in which we can contribute and gain/give additional knowledge.					   
  
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li><a href="https://testnet.cspr.live/validator/010a6b601408889363dc003943c9234e1bcd9ac074da385c45ff2cd4aa2c9283ce">Casper</a></li>
+        <li><a href="https://explorer.shardnet.near.org/nodes/validators">Near</a></li>
+        <li><a href="https://houston.blastapi.io/explorer/0xc398f4c0e22c86b5997c089244f8e335ab3edefd">Blast Api</a></li>
+        <li><a href="https://moonbase.subscan.io/account/0xBD257396eD62526054f41Be2065b3d1532485189">Moonbase Collator</a></li>
+        <li><a href="https://explorer.bccnodes.com/androma/staking/andrvaloper125a32hafpqvxzaxk2rk582ejpua8jk072udnfe">Androma</a></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><a href="https://testnet.explorer.testnet.run/kqcosmos-1/staking">KQCOSMOS-1</a></li>
+        <li><a href="https://explorer.kyve.network/korellia/staking/kyvevaloper16hnse4c852xg4vxjnqhx648e02z32n72l66nv7">Kyve</a></li>
+        <li><a href="https://sei.explorers.guru/validator/seivaloper123ywh7wtrrcwx0q5pmwx585ayrgfym433qqhze">Sei</a></li>
+        <li><a href="https://paloma.explorers.guru/validator/palomavaloper1ysyl8t7ghue2gsdv82hr22mcrquekd0x5jtshf">Paloma</a></li>
+        <li><a href="https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4">Bundlr</a></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><a href="https://testnet.owlstake.com/Aura-Network/staking/auravaloper1clwszjl2m0zjpu94lyzx8lpmzdv8vgv39xctwk">Aura</a></li>
+        <li><a href="https://explorers.acloud.pp.ua/cardchain/staking">Cardchain</a></li>
+        <li><a href="https://explorer.ericet.xyz/teritori/staking/torivaloper15vwequkv7mflk86zucqj9kc2nzcfwckvy0nvfa">Teritory</a></li>
+        <li><a href="https://testnet.explorer.blockpi.io/hypernode/0xb3480a304a6a8247d677
