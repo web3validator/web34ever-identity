@@ -186,7 +186,7 @@ My ambassador portfolio -> [here](https://docs.google.com/document/d/1oxpMh1xUdl
 					     
 Web3 validator provides much more than security! We are actively participating in the development of the Network and Community by providing informational, technical and humanitarian support! 
 
-Please check the list on my [website...](https://web3validator.info/#contribution)
+Feel free to check the list on my [website...](https://web3validator.info/#contribution)
 
 The Web3 Validator team has developed the checker bot that can monitor your node uptime. We can implement it on various Cosmos SDK networks and will gladly add it to any new network! It's just super convenient:
 
