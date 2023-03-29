@@ -38,8 +38,6 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Omniflix](https://www.mintscan.io/omniflix/validators/omniflixvaloper147l6zgkn7af5d2rgxktt5wavct2l4hf5hf79hm)	
 
-- [Evmos](https://www.mintscan.io/evmos/validators/evmosvaloper1rq0r53s3wg4854n05tg0hrw5u3jaqlw483z0pg)	
-
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1jg39wazpukeqcytuuad7tsn3end22spg2m4u0x)	
 
 - [Certik](https://www.mintscan.io/certik/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq)	
@@ -69,6 +67,8 @@ Please feel free to familiarize with the list of projects below to which I contr
 - [Rebus](https://rebus.explorers.guru/validator/rebusvaloper17xkn5uj7nmdgz8d3t6k4pg44d9j7xdh2ll0fyu)
 
 - [Acrechain](https://cosmosrun.info/acre-mainnet/staking/acrevaloper12242xw27r9v2dplr9hhy3ftpgn55tehg8fvz56)
+
+- [Aura](https://aurascan.io/validators/auravaloper1wchng2069u332d5xpwt87gza3jts7g5nja945d)
 
 						        Test-Networks 
 							Blockchains grow here
