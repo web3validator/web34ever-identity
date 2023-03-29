@@ -165,7 +165,6 @@ Cosmos SDK projects:
   <tr>
     <td><a href="https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper18mcmka5np287fnv9803f8hly29s2yuygp0a5kx">Uptick</a></td>
     <td><a href="https://explorer.augusta-1.archway.tech/validator/archwayvaloper1nqkwjumz6s2n6zk9fv5jhldupatzup67uawf96">Archway</a></td>
-    <td><a href="https://ping.pub/chronic-token/staking/chronicvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxv0r7khh">Chronic-Token</a></td>
   </tr>
   <tr>
     <td><a href="https://testnet.mintscan.io/evmos-testnet/validators/evmosvaloper1rq0r53s3wg4854n05tg0hrw5u3jaqlw483z0pg">Evmos</a></td>
