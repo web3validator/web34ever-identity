@@ -211,4 +211,5 @@ We have used enterprise-level hardware to run nodes for the most popular PoS blo
 We use advanced data centers such as: Equinix,StackPath(Edgevanna), OVH
                                               
 ```bash
-Our team validates a huge number of mainnets and participates in various testnet programs. We are very interested  in projects in which we can contribute and gain/give additional knowledge.					   
+Our team validates a huge number of mainnets and participates in various testnet programs. We are very interested in projects in which we can contribute and gain/give additional knowledge.					   
+```
