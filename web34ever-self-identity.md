@@ -99,7 +99,6 @@ Please feel free to familiarize with the list of projects below to which I contr
         <li><a href="https://paloma.explorers.guru/validator/palomavaloper1ysyl8t7ghue2gsdv82hr22mcrquekd0x5jtshf">Paloma</a></li>
         <li><a href="https://bundlr.network/explorer/Ry2bDGfBIvYtvDPYnf0eg_ijH4A1EDKaaEEecyjbUQ4">Bundlr</a></li>
         <li><a href="https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper18mcmka5np287fnv9803f8hly29s2yuygp0a5kx">Uptick</a></li>
-        <li><a href="https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pc9jh75t">Chronic</a></li>
       </ul>
     </td>
     <td>
@@ -110,6 +109,7 @@ Please feel free to familiarize with the list of projects below to which I contr
         <li><a href="https://testnet.explorer.blockpi.io/hypernode/0xb3480a304a6a8247d6779b8d54fbc6cc14dffd8f?page=5&perPage=20">BlockPi</a></li>
         <li><a href="https://poolparty.stride.zone/STRIDE/staking/stridevaloper1qtxd3zqr8692qha8whjrndf36g4t5sgv7pxvdf">Stride</a></li>
         <li><a href="https://explorer.devnet.sui.io">Sui</a></li>
+        <li><a href="https://www.skynetexplorers.com/chronic-token/staking/chronicvaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pc9jh75t">Chronic</a></li>
         </tr>
 </table>
 		
