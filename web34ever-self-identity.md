@@ -258,4 +258,60 @@ Also this bot can be customizable and it may add many other functions. We alread
   <tr>
     <td><a href="https://testnet.mintscan.io/rizon/validators/rizonvaloper15sn3ts9jpmf23eskx7730mngftq4gta82y32jf">Rizon</a></td>
     <td><a
+  <table>
+  <tr>
+    <td><a href="https://cyb.ai/">Cyb.ai</a></td>
+    <td><a href="https://explorer.certik.foundation/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq?net=shentu-1">Certik</a></td>
+    <td><a href="https://explorebitsong.com/staking/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4">Bitsong</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://testnet.althea.aneka.io/validators/cosmosvaloper1hv0dcr9l2l090jxtuxu8nsa2jm6h307xfdcwscj">Althea</a></td>
+    <td><a href="http://5k6rp916o9807flqte7ruq1bk0.ingress.ewr1p0.mainnet.akashian.io/">Akash Network</a></td>
+    <td><a href="https://juno.omniflix.co/">Juno</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://explorer.cygnusx-1.publicawesome.dev/validator/starsvaloper1jg39wazpukeqcytuuad7tsn3end22spg2m4u0x">Stargaze</a></td>
+    <td><a href="https://regen.aneka.io/validators?page=active">Regen Network</a></td>
+    <td><a href="https://likecoin.bigdipper.live/validator/cosmosvaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6eu6q5h">Likecoin</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://explorer.sentinel.co/validator/sentvaloper1qx4p43c480wxsxt63wfdvupzqp4dduknxldygu">Sentinel</a></td>
+    <td><a href="#">Iris-Network</a></td>
+    <td><a href="https://testnet.althea.aneka.io/validators/cosmosvaloper1hv0dcr9l2l090jxtuxu8nsa2jm6h307xfdcwscj">Althea</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://explorer.decentr.net/validators/decentrvaloper1xmfyelmhajhswh4m2pqxw9vm6yjw3866j4nmls">Decentr</a></td>
+    <td><a href="https://github.com/KiraCore/testnet">Kira</a></td>
+    <td><a href="https://github.com/osmosis-labs/networks">Osmosis</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://testnet.mintscan.io/rizon/validators/rizonvaloper15sn3ts9jpmf23eskx7730mngftq4gta82y32jf">Rizon</a></td>
+    <td><a
+  <tr>
+    <td><a href="https://irisnet.org/">Iris-Network</a></td>
+    <td><a href="https://testnet.althea.aneka.io/validators/cosmosvaloper1hv0dcr9l2l090jxtuxu8nsa2jm6h307xfdcwscj">Althea</a></td>
+    <td><a href="https://explorer.decentr.net/validators/decentrvaloper1xmfyelmhajhswh4m2pqxw9vm6yjw3866j4nmls">Decentr</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/KiraCore/testnet">Kira</a></td>
+    <td><a href="https://github.com/osmosis-labs/networks">Osmosis</a></td>
+    <td><a href="https://testnet.mintscan.io/rizon/validators/rizonvaloper15sn3ts9jpmf23eskx7730mngftq4gta82y32jf">Rizon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://gravitybridge.info/">Gravity-Bridge</a></td>
+    <td><a href="https://www.assetmantle.com/">AssetMantle</a></td>
+    <td><a href="https://cosmichorizon.io/">CosmicHorizon</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://ki-chain.io/">Ki-chain</a></td>
+    <td><a href="https://wallet.pylons.tech/validator/pylovaloper18c2a42u3kfmey32nadk7a4qsc9wrrz8w83muu7">Pylons</a></td>
+    <td><a href="https://neuron.game-explorer.io/validators/gamevaloper1v5nsfmmwkvj8t23s5vylzr5l7s6j6zjkppm48q">Game</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://crypto.org/">Cryptocom</a></td>
+    <td><a href="https://explorer.omniflix.network/validators">Omniflix</a></td>
+    <td><a href="https://explorer.testnet.uptick.network/uptick-network-testnet/staking/uptickvaloper18mcmka5np287fnv9803f8hly29s2yuygp0a5kx">Uptick</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://explorer.augusta-1.archway.tech/validator/archwayvaloper1nqkwjumz6s2n6zk9fv5jhldupatzup67uawf96">Archway</a></td>
 
