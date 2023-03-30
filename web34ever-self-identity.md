@@ -33,13 +33,6 @@ Please feel free to familiarize with the list of projects below to which I contr
 - [Moonbeam Collator](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4) (not active)
 
 
-<img src='https://user-images.githubusercontent.com/83868103/155484946-4b4c4d00-b5f5-11eb-8c9d-6b5a6b2d7b5a.png' alt='Solana'  width='24.5%'>
-<img src='https://user-images.githubusercontent.com/83868103/155484952-4f788a80-b5f5-11eb-9b70-c46ce8e0dbf7.png' alt='Moonriver Orbiter'  width='24.5%'>
-<img src='https://user-images.githubusercontent.com/83868103/155484955-50112000-b5f5-11eb-9e19-3f8c274067e7.png' alt='Avalanche'  width='24.5%'>
-<img src='https://user-images.githubusercontent.com/83868103/155484957-50a9b680-b5f5-11eb-9d77-2c49f9d61c52.png' alt='Mina Protocol'  width='24.5%'>
-<img src='https://user-images.githubusercontent.com/83868103/155484958-50a9b680-b5f5-11eb-9587-86f1da8e7e34.png' alt='Everscale'  width='24.5%'>
-<img src='https://user-images.githubusercontent.com/83868103/155484961-51424d00-b5f5-11eb-9876-b7c6b1a8d22e.png' alt='TheGraph Indexer'  width='24.5%'>
-
 #Cosmos Networks
 
 - [Juno](https://www.mintscan.io/juno/validators/junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx)	
