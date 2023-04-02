@@ -75,6 +75,8 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Uptick](https://uptick.explorers.guru/validator/uptickvaloper19pz0f48cu87vptrv5a9xluyxt269d36ge72dfa)
 
+- [Jackal](https://ping.pub/jackal/account/jkl1vm9d3anadzxxw7sp6y57d98dtv2mayxvmxfezq)
+
 						        Test-Networks 
 							Blockchains grow here
 							
