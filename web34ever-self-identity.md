@@ -73,6 +73,8 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Nois](https://explorer.mcbnode.online/nois-mainnet/staking/noisvaloper1kmf9w8nmvsuaps2kf4smhphnj8unjcak3hczyr)
 
+- [Uptick](https://uptick.explorers.guru/validator/uptickvaloper19pz0f48cu87vptrv5a9xluyxt269d36ge72dfa)
+
 						        Test-Networks 
 							Blockchains grow here
 							
