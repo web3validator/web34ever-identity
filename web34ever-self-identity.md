@@ -250,7 +250,7 @@ Also this bot can be customizable and it may add many other functions. We alread
 						  
 						           Infrastructure
             	
- We have used enterprise-level hardware to run nodes for the most popular PoS blockchains since 2018. We use advanced data centers such as: [Equinix](https://www.equinix.com/data-centers), [StackPath](https://www.stackpath.com/), [Edgevanna](https://edgevana.com/), [OVH](https://www.ovhcloud.com/en/)
+ We have used enterprise-level hardware to run nodes for the most popular PoS blockchains since 2018. We use advanced data centers: [Equinix](https://www.equinix.com/data-centers), [StackPath](https://www.stackpath.com/), [Edgevanna](https://edgevana.com/), [OVH](https://www.ovhcloud.com/en/)
 
 
 Our team validates a huge number of mainnets and participates in various testnet programs. We are very interested in projects in which we can contribute and gain/give additional knowledge.
