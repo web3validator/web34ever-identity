@@ -57,8 +57,6 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
 
-- [Galaxy](https://explorer.postcapitalist.io/galaxy/staking/galaxyvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxvrxjgnp)
-
 - [Genesis](https://ping.pub/genesisl1/staking/genesisvaloper10x5stkzceeefj87ku75uvjvxyr6zu9rd5a8mp5)
 
 - [Passage](https://www.mintscan.io/passage/validators/pasgvaloper14vyqdka2r444hl6hj29fspa7yta3hu4yc0kk2q)
