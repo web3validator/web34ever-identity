@@ -75,6 +75,8 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Jackal](https://ping.pub/jackal/staking/jklvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxvw4fs6e)
 
+- [Lambda](https://explorer.stavr.tech/lambda/staking/lambvaloper18vncf69zfq6pyszk4skj9n5ev8zzrwr2puryqk)
+
 						        Test-Networks 
 							Blockchains grow here
 							
