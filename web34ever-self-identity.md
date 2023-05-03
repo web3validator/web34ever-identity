@@ -24,7 +24,7 @@ Please feel free to familiarize with the list of projects below to which I contr
 		
 - [Everscale](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)(not active)
 
-- [TheGraph Indexer](https://thegraph.com/explorer/profile?id=0xd93456bf656436e66a8e0a8835c43a6f59afbb37&view=Indexing)	
+- [TheGraph Indexer](https://thegraph.com/explorer/profile/0x61fb0285da8609b17bd82675acf0fc0a60061d7d?view=Indexing&chain=mainnet)	
 
 - [Casper](https://cspr.live/account/018dc552de3c403dbefe03a9c604e11346d96159ed49f9381a55c2e06c45197d43)(not active)
 
