@@ -230,7 +230,7 @@ Feel free to check the list on my [website...](https://web3validator.info/#contr
 	
 ### Uptime Checker bot
 	
-The Web3 Validator team has developed the checker bot that can monitor your node uptime. We can implement it on various Cosmos SDK networks and will gladly add it to any new network! It's just super convenient:
+Web3 Validator team has developed the checker bot that can monitor your node uptime. We can implement it on various Cosmos SDK networks and will gladly add it to any new network! It's just super convenient:
 
 *Without installing any software (grafana, tenderduty, prometheus or etc.)
 
@@ -239,7 +239,7 @@ The Web3 Validator team has developed the checker bot that can monitor your node
 *Сan tell you about the time left before being sent to jail.
 
 *Clear and pleasant interface and validator status check. 
-Also this bot can be customizable and it may add many other functions. We already implement many known cosmo-networks and all of them fully support us.
+Also this bot can be customizable and it may add many other functions. We already implement it in many known cosmos-networks.
 
 
 
