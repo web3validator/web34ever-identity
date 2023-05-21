@@ -77,6 +77,8 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Lambda](https://explorer.stavr.tech/lambda/staking/lambvaloper18vncf69zfq6pyszk4skj9n5ev8zzrwr2puryqk)
 
+- [Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1pgm7l5t6nxvtf8kz5mm83ddzvjwz87v7kym2qd)
+
 						        Test-Networks 
 							Blockchains grow here
 							
