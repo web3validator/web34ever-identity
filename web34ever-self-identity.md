@@ -14,7 +14,7 @@ Please feel free to familiarize with the list of projects below to which I contr
                                                         Main-Networks
 								 	
 				
-- [Solana](https://www.validators.app/validators/mainnet/7MTjmteQHhthwwTZhUzsc2dP4NBvGNRqj8jzdqNxHFGE?locale=en&order=&refresh=)
+- [Solana](https://stage.validators.app/validators/7MTjmteQHhthwwTZhUzsc2dP4NBvGNRqj8jzdqNxHFGE?locale=en&network=mainnet)
 
 - [Moonriver Orbiter](https://moonriver.subscan.io/extrinsic/0x48bbd6a6ac37db20ffabf8a33e737c5fbaab26cc5272e5186690b8ccfa379e22)
 
