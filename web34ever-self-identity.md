@@ -20,6 +20,8 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
 
+- [Kusama](https://kusama.subscan.io/waiting/GL5jF2yxfVA499zNkjMEfiznhD2hJQX4s2Ega7fk93vt8qf)
+
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75)
 		
 - [Everscale](https://ton.live/depools/depoolDetails?id=0%3Ae108fbffddd3999898788f59b267a0641287703866845d1734be5cd7f637473c)(not active)
