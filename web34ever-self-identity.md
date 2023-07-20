@@ -82,6 +82,8 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1pgm7l5t6nxvtf8kz5mm83ddzvjwz87v7kym2qd)
 
+- [Composable](https://explorer.stavr.tech/composable-mainnet/staking/centaurivaloper17s38yrdualvhrsqcy3kgv6uhh6eyz9te9j6xjh)
+
 						        Test-Networks 
 							Blockchains grow here
 							
