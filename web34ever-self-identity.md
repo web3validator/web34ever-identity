@@ -46,7 +46,7 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1mzqxq685qd0gvhjelgn0mu58scp9v0v4n80hcy)
 
-- [Cyber](https://cyb.ai/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)
+- [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)
 
 - [Gravity-Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1exksjeh9c0h03mxsvechrcc6axe56c5a56573y)
  
