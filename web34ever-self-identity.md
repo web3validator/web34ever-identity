@@ -227,26 +227,6 @@ My ambassador portfolio -> [here](https://docs.google.com/document/d/1oxpMh1xUdl
 - Cosmos Network - [YouTube link](https://www.youtube.com/watch?v=cIxdLwKAYYQ&t=6s&ab_channel=PapsanLysenko)
 - FreeTON Network - [YouTube link](https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko)
 
-                                                      contributions in projects
-					     
-Web3 validator provides much more than security! We are actively participating in the development of the Network and Community by providing informational, technical and humanitarian support! 
-
-Feel free to check the list on my [website...](https://web3validator.info/#contribution)
-	
-### Uptime Checker bot
-	
-Web3 Validator team has developed the checker bot that can monitor your node uptime. We can implement it on various Cosmos SDK networks and will gladly add it to any new network! It's just super convenient:
-
-*Without installing any software (grafana, tenderduty, prometheus or etc.)
-
-*That bot not only warns that the validator is already in jail but pings you when your validator starts skipping blocks to keep you out of jail
-
-*Сan tell you about the time left before being sent to jail.
-
-*Clear and pleasant interface and validator status check. 
-Also this bot can be customizable and it may add many other functions. We already implement it in many known cosmos-networks.
-
-
 
                                                       Contacts	
 
