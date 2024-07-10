@@ -64,8 +64,6 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Teritori](https://teritori.explorers.guru/validator/torivaloper1x6vfjy754fvzrlug2kxsp6s54yfj753sjtr70f)
 
-- [Rebus](https://rebus.explorers.guru/validator/rebusvaloper17xkn5uj7nmdgz8d3t6k4pg44d9j7xdh2ll0fyu)
-
 - [Acrechain](https://cosmosrun.info/acre-mainnet/staking/acrevaloper12242xw27r9v2dplr9hhy3ftpgn55tehg8fvz56)
 
 - [Aura](https://aurascan.io/validators/auravaloper1wchng2069u332d5xpwt87gza3jts7g5nja945d)
