@@ -50,7 +50,7 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Gravity-Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1exksjeh9c0h03mxsvechrcc6axe56c5a56573y)
  
-- [Rizon](https://www.mintscan.io/rizon/validators/rizonvaloper17kpyk8nqwr0dkv4nz5j4d3r9umfm23we0fk8wj)
+- [Pylons](https://explorer.nodestake.org/pylons/staking/pylovaloper1hfnqlqj74pfhfyj2s3pzxdh2ja64e6rad6tuac)
 
 - [Likecoin](https://www.mintscan.io/likecoin/validators/likevaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6emyftv)
 
@@ -80,7 +80,7 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1pgm7l5t6nxvtf8kz5mm83ddzvjwz87v7kym2qd)
 
-- [Composable](https://ping.pub/composable/staking/centaurivaloper17s38yrdualvhrsqcy3kgv6uhh6eyz9te9j6xjh)
+- [Althea](https://www.mintscan.io/althea/validators/altheavaloper1tk89wswv7h0ptsqfkgqgr9l6tq4vn7wm6mpecx)
 
 						        Test-Networks 
 							Blockchains grow here
