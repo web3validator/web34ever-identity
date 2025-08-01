@@ -54,8 +54,6 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Likecoin](https://www.mintscan.io/likecoin/validators/likevaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6emyftv)
 
-- [BitCanna](https://www.mintscan.io/bitcanna/validators/bcnavaloper1ex2m0j9gc7l49lr5qgrhnp7vy83adq0k3uj8pk)
-
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
 
 - [Genesis](https://ping.pub/genesisl1/staking/genesisvaloper10x5stkzceeefj87ku75uvjvxyr6zu9rd5a8mp5)
@@ -73,8 +71,6 @@ Please feel free to familiarize with the list of projects below to which I contr
 - [Uptick](https://uptick.explorers.guru/validator/uptickvaloper19pz0f48cu87vptrv5a9xluyxt269d36ge72dfa)
 
 - [Jackal](https://ping.pub/jackal/staking/jklvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxvw4fs6e)
-
-- [Lambda](https://explorer.stavr.tech/lambda/staking/lambvaloper18vncf69zfq6pyszk4skj9n5ev8zzrwr2puryqk)
 
 - [Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1pgm7l5t6nxvtf8kz5mm83ddzvjwz87v7kym2qd)
 
