@@ -38,13 +38,13 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 #Cosmos Networks
 
-- [Juno](https://www.mintscan.io/juno/validators/junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx)	
+- [Juno](https://atomscan.com/juno/validators/junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx))	
 
 - [Omniflix](https://www.mintscan.io/omniflix/validators/omniflixvaloper147l6zgkn7af5d2rgxktt5wavct2l4hf5hf79hm)	
 
 - [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1jg39wazpukeqcytuuad7tsn3end22spg2m4u0x)	
 
-- [Certik](https://www.mintscan.io/certik/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq)	
+- [Shentu (Certik)](https://www.mintscan.io/certik/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq)	
 
 - [AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1mzqxq685qd0gvhjelgn0mu58scp9v0v4n80hcy)
 
@@ -58,8 +58,6 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
 
-- [Genesis](https://ping.pub/genesisl1/staking/genesisvaloper10x5stkzceeefj87ku75uvjvxyr6zu9rd5a8mp5)
-
 - [Passage](https://www.mintscan.io/passage/validators/pasgvaloper14vyqdka2r444hl6hj29fspa7yta3hu4yc0kk2q)
 
 - [Teritori](https://teritori.explorers.guru/validator/torivaloper1x6vfjy754fvzrlug2kxsp6s54yfj753sjtr70f)
@@ -68,7 +66,6 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Aura](https://aurascan.io/validators/auravaloper1wchng2069u332d5xpwt87gza3jts7g5nja945d)
 
-- [Nois](https://explorer.mcbnode.online/nois-mainnet/staking/noisvaloper1kmf9w8nmvsuaps2kf4smhphnj8unjcak3hczyr)
 
 - [Uptick](https://uptick.explorers.guru/validator/uptickvaloper19pz0f48cu87vptrv5a9xluyxt269d36ge72dfa)
 
