@@ -50,7 +50,7 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)
  
-- [Pylons](https://explorer.nodestake.org/pylons/staking/pylovaloper1hfnqlqj74pfhfyj2s3pzxdh2ja64e6rad6tuac)
+- [Pylons](https://pylons.explorers.guru/validator/pylovaloper1hfnqlqj74pfhfyj2s3pzxdh2ja64e6rad6tuac)
 
 - [Likecoin](https://www.mintscan.io/likecoin/validators/likevaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6emyftv)
 
