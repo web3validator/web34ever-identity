@@ -49,8 +49,6 @@ Please feel free to familiarize with the list of projects below to which I contr
 - [AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1mzqxq685qd0gvhjelgn0mu58scp9v0v4n80hcy)
 
 - [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)
-
-- [Gravity-Bridge](https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1exksjeh9c0h03mxsvechrcc6axe56c5a56573y)
  
 - [Pylons](https://explorer.nodestake.org/pylons/staking/pylovaloper1hfnqlqj74pfhfyj2s3pzxdh2ja64e6rad6tuac)
 
@@ -62,16 +60,13 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 - [Teritori](https://teritori.explorers.guru/validator/torivaloper1x6vfjy754fvzrlug2kxsp6s54yfj753sjtr70f)
 
-- [Acrechain](https://cosmosrun.info/acre-mainnet/staking/acrevaloper12242xw27r9v2dplr9hhy3ftpgn55tehg8fvz56)
-
 - [Aura](https://aurascan.io/validators/auravaloper1wchng2069u332d5xpwt87gza3jts7g5nja945d)
-
 
 - [Uptick](https://uptick.explorers.guru/validator/uptickvaloper19pz0f48cu87vptrv5a9xluyxt269d36ge72dfa)
 
 - [Jackal](https://ping.pub/jackal/staking/jklvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxvw4fs6e)
 
-- [Gitopia](https://ping.pub/gitopia/staking/gitopiavaloper1pgm7l5t6nxvtf8kz5mm83ddzvjwz87v7kym2qd)
+- [Gitopia](https://gitopia.exploreme.pro/validators/gitopiavaloper1pgm7l5t6nxvtf8kz5mm83ddzvjwz87v7kym2qd)
 
 - [Althea](https://www.mintscan.io/althea/validators/altheavaloper1tk89wswv7h0ptsqfkgqgr9l6tq4vn7wm6mpecx)
 
