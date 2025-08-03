@@ -17,7 +17,7 @@ Please feel free to familiarize with the list of projects below to which I contr
 				
 - [Solana](https://stage.validators.app/validators/7MTjmteQHhthwwTZhUzsc2dP4NBvGNRqj8jzdqNxHFGE?locale=en&network=mainnet)
 
-- [Starknet] (https://voyager.online/staking-dashboard?validator=0x067f8Dc84B5B2213C4ec5A4dF990F7324BF025bB819eC2e9b7592E5C82fa4baB)
+- [Starknet](https://voyager.online/staking-dashboard?validator=0x067f8Dc84B5B2213C4ec5A4dF990F7324BF025bB819eC2e9b7592E5C82fa4baB)
   
 - [Moonriver Orbiter](https://moonriver.subscan.io/extrinsic/0x48bbd6a6ac37db20ffabf8a33e737c5fbaab26cc5272e5186690b8ccfa379e22)
 
