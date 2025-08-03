@@ -38,7 +38,7 @@ Please feel free to familiarize with the list of projects below to which I contr
 
 #Cosmos Networks
 
-- [Juno](https://atomscan.com/juno/validators/junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx))	
+- [Juno](https://atomscan.com/juno/validators/junovaloper1mxpyg8u68k6a8wdu3hs5whcpw9q285pcpxm5yx)
 
 - [Omniflix](https://www.mintscan.io/omniflix/validators/omniflixvaloper147l6zgkn7af5d2rgxktt5wavct2l4hf5hf79hm)	
 
