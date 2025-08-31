@@ -67,10 +67,11 @@ Active in blockchain validation since 2018, combining strong technical expertise
 
 - [Althea](https://www.mintscan.io/althea/validators/altheavaloper1tk89wswv7h0ptsqfkgqgr9l6tq4vn7wm6mpecx)
 
-						        Test-Networks 
-							Blockchains grow here
-							
-							Recent		
+#### Test-Networks 
+
+						        
+							Blockchains are growing here
+								
 				         
 
 <table>
