@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=web34ever+-+powering+with+enterprise-grade+validation)](https://git.io/typing-svg)
 
-**Web34ever** — Infrastructure Validator & Dedicated Contributor with 5+ years of experience in decentralized technologies.  
+**Web34ever** — Infrastructure Validator & Dedicated Contributor with 7+ years of experience in decentralized technologies.  
 Active in blockchain validation since 2018, combining strong technical expertise with governance engagement.
 
 - Core team member at [POSTHUMAN](https://posthuman.digital/team)  
