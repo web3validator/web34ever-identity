@@ -18,8 +18,6 @@ Active in blockchain validation since 2018, combining strong technical expertise
 
 - [Starknet](https://voyager.online/staking-dashboard?validator=0x067f8Dc84B5B2213C4ec5A4dF990F7324BF025bB819eC2e9b7592E5C82fa4baB)
   
-- [Moonriver Orbiter](https://moonriver.subscan.io/extrinsic/0x48bbd6a6ac37db20ffabf8a33e737c5fbaab26cc5272e5186690b8ccfa379e22)
-
 - [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
 
 - [Kusama](https://kusama.subscan.io/waiting/GL5jF2yxfVA499zNkjMEfiznhD2hJQX4s2Ega7fk93vt8qf)
