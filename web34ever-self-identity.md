@@ -2,14 +2,12 @@
 <img src="https://ik.imagekit.io/txuplcwbq/web3-logo.png" alt="web34ever" width="250" height="250">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=web34ever+is+a+staking+service+that+is+online+all+the+time!)](https://git.io/typing-svg)
-## [web3validator.info](https://web3validator.info/)
-Passionate experts with over five years of expertise in decentralized technologies. Professional validator and full time enthusiast from 2018 with powerful knowledge and exhaustive experience in crypto industry.
-Member of the [POSTHUMAN](https://posthuman.digital/team) core-team.
-Co-founder of the rapidly developing [Distributed Validator Synctems](https://validators.network/). 
-Co-founder and mentor in [validator school](https://github.com/Distributed-Validators-Synctems/Validator-School). 
+**Web34ever** — Infrastructure Validator & Dedicated Contributor with 5+ years of experience in decentralized technologies.  
+Active in blockchain validation since 2018, combining strong technical expertise with governance engagement.
 
-
-Please feel free to familiarize with the list of projects below to which I contributed my knowledge, skills and invaluable experience:
+- Core team member at [POSTHUMAN](https://posthuman.digital/team)  
+- Co-founder of [Distributed Validator Synctems](https://validators.network/)  
+- Co-founder of [Validator School](https://github.com/Distributed-Validators-Synctems/Validator-School)  
 
 ##                                web34ever validate
                                                         Main-Networks
@@ -221,7 +219,12 @@ My ambassador portfolio -> [here](https://docs.google.com/document/d/1oxpMh1xUdl
 
 [<img src='https://user-images.githubusercontent.com/83868103/227937841-6e05b933-9534-49f1-808a-efe087a4f7cd.png' alt='Twitter'  width='16.5%'>](https://twitter.com/web34ever)[<img src='https://user-images.githubusercontent.com/83868103/227935592-ea64badd-ceb4-4945-8dfc-f25c787fb29d.png' alt='TELEGRAM'  width='16.5%'>](https://t.me/web34ever)[<img src='https://user-images.githubusercontent.com/59205554/229010780-8381c300-1eda-45c4-9d47-17d3abd32c98.png' alt='WEBSITE'  width='16.5%'>](https://web3validator.info)[<img src='https://user-images.githubusercontent.com/83868103/227936479-a48e814b-3ec1-4dcb-bd44-96b02d8f55da.png' alt='MAIL'  width='16.5%'>](mailto:web34ever@gmail.com)[<img src='https://user-images.githubusercontent.com/83868103/227948915-65731f97-c406-4d2c-996c-e5440ff67584.png' alt='GITHUB'  width='16.5%'>](https://github.com/web3validator)[<img src='https://user-images.githubusercontent.com/59205554/229010265-a3782434-0f41-4736-89c0-e50143da2abe.png' alt='Keybase'  width='16.5%'>](https://keybase.io/web34ever)
 
-						   
+
+### Governance & Contributions
+We participate in governance across multiple networks with high voting activity, proposal creation, DAO initiatives, and active community involvement.
+### Our Mission
+To deliver reliable, secure, and transparent validation services while supporting decentralized governance and contributing to the long-term growth of blockchain ecosystems.
+
 						  
 						           Infrastructure
             	
