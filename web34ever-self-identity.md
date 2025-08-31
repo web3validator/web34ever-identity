@@ -227,7 +227,7 @@ We participate in governance across multiple networks with high voting activity,
 To deliver reliable, secure, and transparent validation services while supporting decentralized governance and contributing to the long-term growth of blockchain ecosystems.
 
 						  
-						           Infrastructure
+						                             Infrastructure
             	
  We have used enterprise-level hardware to run nodes for the most popular PoS blockchains since 2018. We use advanced data centers: [Equinix](https://www.equinix.com/data-centers), [StackPath](https://www.stackpath.com/), [Edgevanna](https://edgevana.com/), [OVH](https://www.ovhcloud.com/en/)
 
