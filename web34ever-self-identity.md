@@ -112,10 +112,11 @@ Active in blockchain validation since 2018, combining strong technical expertise
 		
 
 
-                                                   Not  Active
+                                                   Archived
 
 Cosmos SDK projects:
 
+## Cosmos SDK projects
 
 <table>
   <tr>
@@ -163,11 +164,47 @@ Cosmos SDK projects:
     <td><a href="https://explorer.augusta-1.archway.tech/validator/archwayvaloper1nqkwjumz6s2n6zk9fv5jhldupatzup67uawf96">Archway</a></td>
     <td><a href="https://ping.pub/chronic-token/staking/chronicvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxv0r7khh">Chronic-Token</a></td>
   </tr>
-</table> 
+</table>  
 
+## Other projects
 
-
-
+<table>
+  <tr>
+    <td><a href="https://mina.staketab.com/mina/mainnet/validator/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75">Mina Protocol (Genesis Member)</a></td>
+    <td><a href="https://app.poap.xyz/token/469757">The Graph (Curator)</a></td>
+    <td><a href="https://testnet.explorer.blockpi.io/hypernode/0xb3480a304a6a8247d6779b8d54fbc6cc14dffd8f?networkId=8217&page=1&perPage=100">BlockPi</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://explorer.shardnet.near">NEAR</a></td>
+    <td><a href="https://neon-labs.org/">NeonLabs</a></td>
+    <td><a href="https://telemetry.polkadot.io/#list/Zeitgeist%20Battery%20Park">Hopr</a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/cybernekit/casper-node">Casper Network</a></td>
+    <td><a href="#">Filecoin</a></td>
+    <td><a href="https://blog.nucypher.com/the-final-countdown/">NuCypher</a></td>
+  </tr>
+  <tr>
+    <td><a href="#">Swarm</a></td>
+    <td><a href="#">Covalent</a></td>
+    <td><a href="#">NYM</a></td>
+  </tr>
+  <tr>
+    <td><a href="#">Spacemesh</a></td>
+    <td><a href="#">Radicle</a></td>
+    <td><a href="#">Aleo</a></td>
+  </tr>
+  <tr>
+    <td><a href="#">Gateway</a></td>
+    <td><a href="#">Iron Fish</a></td>
+    <td><a href="#">Blockstack</a></td>
+  </tr>
+  <tr>
+    <td><a href="#">Humanode</a></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
 
 Others projects
@@ -208,7 +245,7 @@ My ambassador portfolio -> [here](https://docs.google.com/document/d/1oxpMh1xUdl
 - [Moonbeam]
 - [Goldfinch finance]
 
-                                                        3d video works:
+                                                        Some 3d video works:
 
 - Cosmos Network - [YouTube link](https://www.youtube.com/watch?v=cIxdLwKAYYQ&t=6s&ab_channel=PapsanLysenko)
 - FreeTON Network - [YouTube link](https://www.youtube.com/watch?v=gi47M7hE1yg&t=11s&ab_channel=PapsanLysenko)
