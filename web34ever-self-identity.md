@@ -1,7 +1,7 @@
 
 <img src="https://ik.imagekit.io/txuplcwbq/web3-logo.png" alt="web34ever" width="250" height="250">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=web34ever+powering+powering+with+enterprise-grade+validation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=700&lines=web34ever+-+powering+with+enterprise-grade+validation)](https://git.io/typing-svg)
 
 **Web34ever** — Infrastructure Validator & Dedicated Contributor with 5+ years of experience in decentralized technologies.  
 Active in blockchain validation since 2018, combining strong technical expertise with governance engagement.
