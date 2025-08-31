@@ -10,7 +10,7 @@ Active in blockchain validation since 2018, combining strong technical expertise
 - Co-founder of [Distributed Validator Synctems](https://validators.network/)  
 - Co-founder of [Validator School](https://github.com/Distributed-Validators-Synctems/Validator-School)  
 
-##                                web34ever validate
+## web34ever validate
                                                         Main-Networks
 								 	
 				
