@@ -6,7 +6,7 @@
 **Web34ever** — Infrastructure Validator & Dedicated Contributor with 7+ years of experience in decentralized technologies.  
 Active in blockchain validation since 2018, combining strong technical expertise with governance engagement.
 
-- Core team member at [POSTHUMAN](https://posthuman.digital/team)  
+- Co-founder of [POSTHUMAN](https://posthuman.digital/team)  
 - Co-founder of [Distributed Validator Synctems](https://validators.network/)  
 - Co-founder of [Validator School](https://github.com/Distributed-Validators-Synctems/Validator-School)  
 
