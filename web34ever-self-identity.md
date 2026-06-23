@@ -16,15 +16,11 @@ Active in blockchain validation since 2018, combining strong technical expertise
   
 - [Avalanche](https://avascan.info/staking/validator/NodeID-5uYQ6R4WF7kmGfraM9LtsUJG2CDmh78Lf)
 
-- [Kusama](https://kusama.subscan.io/waiting/GL5jF2yxfVA499zNkjMEfiznhD2hJQX4s2Ega7fk93vt8qf)
-
 - [Mina Protocol](https://minaexplorer.com/wallet/B62qrnPdz8HpsDJfGHirDLpVrN2VeyeitdaTKBaccWtHpeVW9Hgwi75)
 		
 - [Nym-mixnode](https://explorer.nymtech.net/network-components/mixnode/1376)
 
 - [TheGraph Indexer](https://thegraph.com/explorer/profile/0x047739cb42c227489cccd11aa5f28aa4eb46d2cf?view=Indexing&chain=arbitrum-one)	
-
-- [XX-Network](https://explorer.xx.network/accounts/6VaJ35ts5timzFThyYYyFAcswZ2zs73hzS2RsADPWyXcNwnM)
 
 - [Moonbeam Orbiter](https://moonbeam.subscan.io/waiting/0x47dd026c7e6c80c78b53811bf17c2cada73bf0d4)
 
@@ -35,33 +31,32 @@ Active in blockchain validation since 2018, combining strong technical expertise
 
 - [Omniflix](https://www.mintscan.io/omniflix/validators/omniflixvaloper147l6zgkn7af5d2rgxktt5wavct2l4hf5hf79hm)	
 
-- [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1jg39wazpukeqcytuuad7tsn3end22spg2m4u0x)	
-
 - [Shentu (Certik)](https://www.mintscan.io/certik/validators/certikvaloper1036rphfnyw49fzm5ajfud743j2qutlk9flnnsq)	
 
 - [AssetMantle](https://www.mintscan.io/asset-mantle/validators/mantlevaloper1mzqxq685qd0gvhjelgn0mu58scp9v0v4n80hcy)
 
 - [Bostrom](https://cyb.ai/network/bostrom/hero/bostromvaloper15zs0cjct43xs4z4sesxcrynar5mxm82fh73g0j)
- 
-- [Pylons](https://pylons.explorers.guru/validator/pylovaloper1hfnqlqj74pfhfyj2s3pzxdh2ja64e6rad6tuac)
-
-- [Likecoin](https://www.mintscan.io/likecoin/validators/likevaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6emyftv)
-
-- [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
-
-- [Passage](https://www.mintscan.io/passage/validators/pasgvaloper14vyqdka2r444hl6hj29fspa7yta3hu4yc0kk2q)
-
-- [Teritori](https://teritori.explorers.guru/validator/torivaloper1x6vfjy754fvzrlug2kxsp6s54yfj753sjtr70f)
 
 - [Aura](https://aurascan.io/validators/auravaloper1wchng2069u332d5xpwt87gza3jts7g5nja945d)
 
 - [Uptick](https://uptick.explorers.guru/validator/uptickvaloper19pz0f48cu87vptrv5a9xluyxt269d36ge72dfa)
 
-- [Jackal](https://ping.pub/jackal/staking/jklvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxvw4fs6e)
 
-- [Gitopia](https://gitopia.exploreme.pro/validators/gitopiavaloper1pgm7l5t6nxvtf8kz5mm83ddzvjwz87v7kym2qd)
 
 - [Althea](https://www.mintscan.io/althea/validators/altheavaloper1tk89wswv7h0ptsqfkgqgr9l6tq4vn7wm6mpecx)
+
+#### Archived: 
+- [Kusama](https://kusama.subscan.io/waiting/GL5jF2yxfVA499zNkjMEfiznhD2hJQX4s2Ega7fk93vt8qf)
+- [XX-Network](https://explorer.xx.network/accounts/6VaJ35ts5timzFThyYYyFAcswZ2zs73hzS2RsADPWyXcNwnM)
+- [Gitopia](https://gitopia.exploreme.pro/validators/gitopiavaloper1pgm7l5t6nxvtf8kz5mm83ddzvjwz87v7kym2qd)
+- [Pylons](https://pylons.explorers.guru/validator/pylovaloper1hfnqlqj74pfhfyj2s3pzxdh2ja64e6rad6tuac)
+- [Likecoin](https://www.mintscan.io/likecoin/validators/likevaloper1yxzlyqmje82kc3l6nl3tpxhqs356vvh6emyftv)
+- [Bitsong](https://www.mintscan.io/bitsong/validators/bitsongvaloper139dppl6gyerq8yaweksajut3urwyygsz7r4ej4)
+- [Passage](https://www.mintscan.io/passage/validators/pasgvaloper14vyqdka2r444hl6hj29fspa7yta3hu4yc0kk2q)
+- [Stargaze](https://www.mintscan.io/stargaze/validators/starsvaloper1jg39wazpukeqcytuuad7tsn3end22spg2m4u0x)
+- [Teritori](https://teritori.explorers.guru/validator/torivaloper1x6vfjy754fvzrlug2kxsp6s54yfj753sjtr70f)
+- [Jackal](https://ping.pub/jackal/staking/jklvaloper1vm9d3anadzxxw7sp6y57d98dtv2mayxvw4fs6e)
+
 
 #### Test-Networks 
 
